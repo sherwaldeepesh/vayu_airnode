@@ -1,0 +1,1031 @@
+id,location,lat,long,description,category,created_at,image_filename,user,data_id
+97,Patna,25.5946026,85.1301013,Less traffic,Vehicle Pollution,2024-07-15 14:48:30.269727+00,,person 3,449529
+98,Patna,25.6052891,85.1377248,Too much traffic ,Vehicle Pollution,2024-07-15 14:50:23.223294+00,,person 4,449611
+99,Patna,25.6052634,85.1377569,Current data from patna junction,Vehicle Pollution,2024-07-15 14:51:12.752835+00,,person 27,449602
+100,Patna,25.6052888,85.1381756,Near Buddha Smriti park,Vehicle Pollution,2024-07-15 14:54:50.717485+00,,person 4,449744
+101,Patna,25.59579341,85.13036372,Less traffic,Vehicle Pollution,2024-07-15 14:55:38.794937+00,,person 3,449793
+102,Rajendra Nagar,25.6023787,85.1606328,Near commerce college ,Vehicle Pollution,2024-07-15 15:10:38.137361+00,,person 4,450276
+103,Rajendra Nagar,25.6025687,85.1611955,Rajendra nagar metro construction ,Construction & Demolition Waste,2024-07-15 15:14:22.193224+00,1000042744.jpg,person 27,450333
+104,Rajendra Nagar,25.5959225,85.1732255,Room ,Vehicle Pollution,2024-07-15 15:47:19.284056+00,,person 4,451014
+105,Rajendra Nagar,25.5960912,85.173213,Bhoothnath ,Vehicle Pollution,2024-07-15 17:38:39.322694+00,,person 4,452623
+106,Rajendra Nagar,25.59516443,85.17285258,Morning vibes of patna ,Industrial Pollution,2024-07-16 00:33:11.07158+00,1000122986.jpg,person 4,457958
+107,Rajendra Nagar,25.5965212,85.1731167,Morning observation,Vehicle Pollution,2024-07-16 00:55:09.285527+00,,person 27,458277
+108,Patna,25.6269211,85.1006271,"Residential waste  PM 10 - 46.4 ,PM 2.5 - 34.3, CO2- 62 , NO2 42.171",Waste Burning,2024-07-16 01:31:07.673178+00,IMG_20240716_065424.jpg,person 6,458772
+109,Patna,25.6273332,85.1005683,"Residential Area, Indrapuri Road no- 3B",Brick Kilns,2024-07-16 01:41:57.198161+00,IMG_20240716_070751.jpg,person 6,458928
+110,Rajendra Nagar,25.5963811,85.1744903,Smoke,Waste Burning,2024-07-16 02:05:37.028111+00,1000122995.jpg,person 4,459293
+111,Rajendra Nagar,25.59339783,85.17394654,Smoke,Waste Burning,2024-07-16 02:08:34.5009+00,1000042772.jpg,person 27,459331
+112,Patna,25.5990693,85.1278249,"Vegetable market, mithapur",Vehicle Pollution,2024-07-16 04:29:41.786654+00,1000129379.jpg,person 3,461492
+113,Patna,25.5979998,85.1273449,Residents,Vehicle Pollution,2024-07-16 04:37:00.899818+00,,person 3,461527
+114,Patna,25.6244635,85.1103002,"Alpana market patliputra, boring road road due to vehicle pollution ",Vehicle Pollution,2024-07-16 04:59:56.105873+00,1000147474.jpg,person 24,461996
+115,Patna,25.6223208,85.1103825,"AN path , boring road ",Vehicle Pollution,2024-07-16 05:15:07.00298+00,1000147475.jpg,person 24,462225
+116,Rajendra Nagar,25.6110646,85.1763694,Garbage dumped site.,Waste Burning,2024-07-16 06:37:16.417445+00,1000140255.jpg,person 26,463960
+117,Patna,25.5819615,85.190478,Dust,Industrial Pollution,2024-07-16 08:50:44.691065+00,1000123100.jpg,person 4,467152
+118,Ranipur,25.5721251,85.2138155,Outside patna ,Industrial Pollution,2024-07-16 09:18:35.04109+00,1000123106.jpg,person 4,467802
+119,Ranipur,25.5792725,85.2175409,Site construction ,Construction & Demolition Waste,2024-07-16 10:13:07.467899+00,1000123109.jpg,person 4,469081
+120,Patna,25.615555,85.1148837,Check Post sk Puri boring road.,Vehicle Pollution,2024-07-16 11:01:53.894369+00,1000147504.jpg,person 24,470258
+121,Ranipur,25.5763665,85.2084144,Clean area ,Construction & Demolition Waste,2024-07-16 11:03:42.175613+00,1000123119.jpg,person 4,470346
+122,Patna,25.6196481,85.1100276,"Rajesh petrol pump an college main gate, boring road ",Vehicle Pollution,2024-07-16 11:32:01.048883+00,1000147507.jpg,person 24,471084
+123,Patna,25.6173713,85.1127117,Shivpuri mandir,Vehicle Pollution,2024-07-16 11:32:04.002605+00,IMG_20240716_170025.jpg,person 6,471113
+124,Patna,25.5818828,85.1910504,Pollution ,Vehicle Pollution,2024-07-16 11:44:32.569331+00,1000123126.jpg,person 4,471431
+125,Patna,25.6163519,85.1123766,Sk hospital .oppt krishna apoartment,Vehicle Pollution,2024-07-16 11:50:58.60642+00,IMG_20240716_171311.jpg,person 6,471501
+126,Patna,25.6222609,85.1102539,An path residential area boring road ,Waste Burning,2024-07-16 11:53:03.797274+00,1000147517.jpg,person 24,471626
+127,Patna,25.5989509,85.1332812,Traffic,Vehicle Pollution,2024-07-16 12:16:29.26141+00,,person 3,472287
+128,Patna,25.5992737,85.1340268,Before the traffic ,Vehicle Pollution,2024-07-16 12:17:50.173705+00,20240716_174613.jpg,person 19,464485
+129,Patna,25.5993462,85.1340491,Evening traffick,Vehicle Pollution,2024-07-16 12:18:10.185345+00,,person 3,472319
+130,Patna,25.5969149,85.132263,Busy area,Vehicle Pollution,2024-07-16 12:20:06.798742+00,20240716_174830.jpg,person 19,472355
+131,Patna,25.5958338,85.1355682,Waste ,Waste Burning,2024-07-16 12:30:53.889204+00,1000129461.jpg,person 3,472678
+132,Patna,25.5953716,85.1369393,Peak traffic hour,Vehicle Pollution,2024-07-16 12:36:42.152918+00,1000129462.jpg,person 3,472849
+133,Patna,25.59625106,85.13679198,Pollution,Vehicle Pollution,2024-07-16 12:37:45.660003+00,1000129464.jpg,person 3,472878
+134,Patna,25.59298908,85.13635533,Pollution,Vehicle Pollution,2024-07-16 12:56:38.09776+00,,person 3,473409
+135,Patna,25.5955499,85.1369265,Before start of heavy traffic,Vehicle Pollution,2024-07-16 12:59:47.05143+00,20240716_182853.jpg,person 19,473482
+136,Patna,25.6006631,85.1322193,Waste,Construction & Demolition Waste,2024-07-16 13:19:59.171389+00,1000129466.jpg,person 3,474050
+137,Patna,25.618349,85.1085904,Shivpuri sbji mandi,Vehicle Pollution,2024-07-16 13:33:10.493942+00,IMG_20240716_190105.jpg,person 6,474427
+138,Digha,25.6463711,85.0989477,"Marine drive  , Patna",Vehicle Pollution,2024-07-16 13:53:42.787764+00,IMG_20240716_192020.jpg,person 6,475006
+139,Rajendra Nagar,25.59632238,85.16948143,Evening data around residential area,Vehicle Pollution,2024-07-16 14:09:50.255108+00,,person 27,475544
+140,Sonepur,25.6932795,85.1740195,Marine drive,Vehicle Pollution,2024-07-16 14:14:03.36288+00,IMG_20240716_194148.jpg,person 6,475344
+141,Rajendra Nagar,25.5967279,85.1747658,Traffic,Vehicle Pollution,2024-07-16 15:40:47.374383+00,,person 27,478147
+142,Patna,25.59573169,85.12882414,Data,Vehicle Pollution,2024-07-16 16:13:21.321472+00,,person 3,479076
+143,Rajendra Nagar,25.5962672,85.1742582,After 10pm,Vehicle Pollution,2024-07-16 17:02:48.342949+00,,person 27,480521
+144,Rajendra Nagar,25.596277,85.169963,Morning reading at residential area,Vehicle Pollution,2024-07-17 00:33:35.890397+00,,person 27,492312
+145,Rajendra Nagar,25.5943548,85.1741247,Bhootnath road,Vehicle Pollution,2024-07-17 01:23:38.47495+00,,person 27,493682
+146,Rajendra Nagar,25.5987972,85.1697139,Kanti Factory road,Vehicle Pollution,2024-07-17 02:27:42.699264+00,,person 27,495446
+147,Rajendra Nagar,25.59598161,85.16981432,Morning vibes ,Vehicle Pollution,2024-07-17 02:50:21.169568+00,,person 4,496039
+148,Patna,25.6222602,85.1102613,An path residential area ,Vehicle Pollution,2024-07-17 04:59:31.225496+00,1000147581.jpg,person 24,499988
+149,Ranipur,25.58367231,85.20877692,.....,Industrial Pollution,2024-07-17 05:14:34.55989+00,1000123368.jpg,person 4,500580
+150,Rajendra Nagar,25.5990738,85.1695171,Kanti Factory ,Vehicle Pollution,2024-07-17 05:30:04.224799+00,,person 27,501157
+151,Ranipur,25.57712524,85.20741728,Outside patna city ,Industrial Pollution,2024-07-17 06:36:25.538187+00,1000123375.jpg,person 4,503590
+152,Patna,25.6257594,85.1002317,Indrapuri 3A,Waste Burning,2024-07-17 07:01:28.313711+00,IMG_20240717_080914.jpg,person 6,504521
+153,Patna,25.5847475,85.191432,Pollution ,Vehicle Pollution,2024-07-17 07:03:04.857092+00,1000123380.jpg,person 4,504608
+154,Patna,25.6267799,85.1005505,Indrapuri 3A,Construction & Demolition Waste,2024-07-17 07:03:49.706412+00,IMG_20240717_123246.jpg,person 6,504600
+155,Rajendra Nagar,25.5959617,85.1675814,Inside room,Waste Burning,2024-07-17 07:22:18.555891+00,1000123383.jpg,person 4,505268
+156,Rajendra Nagar,25.5959716,85.1675975,Normal ,Vehicle Pollution,2024-07-17 10:44:47.460634+00,,person 4,512384
+157,Patna,25.6282379,85.1016818,Indrapuri Road no - 4,Vehicle Pollution,2024-07-17 11:10:48.739413+00,IMG_20240717_163939.jpg,person 6,513315
+158,Patna,25.6177102,85.1139962,Sri bhagwat kunj apartment Boring road ,Vehicle Pollution,2024-07-17 12:26:38.534773+00,1000147622.jpg,person 24,516016
+159,Patna,25.6191794,85.1147606,Rajmuni sangeet niketan boaring road,Vehicle Pollution,2024-07-17 12:33:54.413336+00,IMG_20240717_180159.jpg,person 6,516283
+160,Patna,25.6192564,85.1146765,Indrapath north sk Puri boring road ,Vehicle Pollution,2024-07-17 12:34:06.331765+00,1000147625.jpg,person 24,516277
+161,Patna,25.61916,85.1140123,Boring road krishna apartment ,Waste Burning,2024-07-17 12:37:22.483897+00,1000147620.jpg,person 24,516423
+162,Rajendra Nagar,25.6013026,85.1704705,Old bypass,Vehicle Pollution,2024-07-17 12:44:24.73419+00,,person 27,516711
+163,Rajendra Nagar,25.5997684,85.1700051,Evening rush,Vehicle Pollution,2024-07-17 12:48:35.119884+00,,person 27,516860
+164,Patna,25.6196816,85.1097213,Boring road patna ,Vehicle Pollution,2024-07-17 12:53:35.873982+00,1000147628.jpg,person 24,517010
+165,Patna,25.6197255,85.1096704,Boaring road,Vehicle Pollution,2024-07-17 12:54:41.034279+00,IMG_20240717_182330.jpg,person 6,517051
+166,Rajendra Nagar,25.5963067,85.1701194,Residential area,Vehicle Pollution,2024-07-17 12:59:28.391978+00,,person 27,517226
+167,Rajendra Nagar,25.5960719,85.1698452,Park area ,Vehicle Pollution,2024-07-17 13:09:55.796572+00,,person 27,517605
+168,Rajendra Nagar,25.5977716,85.169268,Evening traffic around kanti factory road,Vehicle Pollution,2024-07-17 13:16:11.165489+00,,person 27,517799
+169,Rajendra Nagar,25.59915616,85.16980174,Evening crowd ,Vehicle Pollution,2024-07-17 14:40:27.593389+00,,person 4,520684
+170,Rajendra Nagar,25.5984153,85.1691966,Road,Vehicle Pollution,2024-07-17 15:02:19.166456+00,1000123547.jpg,person 4,521400
+171,Rajendra Nagar,25.60060489,85.16826221,Above to normal ,Vehicle Pollution,2024-07-17 15:43:04.220336+00,,person 4,522730
+172,Rajendra Nagar,25.59659515,85.17161284,Evening ,Waste Burning,2024-07-17 15:53:22.431914+00,1000123554.jpg,person 4,523052
+173,Rajendra Nagar,25.5963875,85.17374265,Traffic Near boothnath,Vehicle Pollution,2024-07-17 15:54:23.240418+00,,person 27,523073
+174,Rajendra Nagar,25.59628665,85.1744996,Cloudy ,Vehicle Pollution,2024-07-17 16:45:29.267409+00,,person 4,524699
+175,Rajendra Nagar,25.5961077,85.1732075,Room environment ,Industrial Pollution,2024-07-17 18:14:35.507155+00,1000123554_UztrNSO.jpg,person 4,527318
+176,Rajendra Nagar,25.59425357,85.17165643,Morning 🌞,Vehicle Pollution,2024-07-18 01:00:21.704265+00,,person 4,538665
+177,Rajendra Nagar,25.5963335,85.1742154,Morning rush,Vehicle Pollution,2024-07-18 01:37:46.282839+00,,person 27,539711
+178,Rajendra Nagar,25.5979441,85.1693261,Kanti Factory  road,Vehicle Pollution,2024-07-18 01:48:18.338274+00,,person 27,539991
+179,Patna,25.59527893,85.13135814,Less traffic,Vehicle Pollution,2024-07-18 03:19:16.112523+00,,person 3,542521
+180,Patna,25.586364,85.0964598,Heatbwave,Vehicle Pollution,2024-07-18 03:59:51.687311+00,,person 4,538780
+181,Rajendra Nagar,25.5907286,85.1569689,"Heavy pollution under newly constructed metro bridge in 90 Ft Road in Kankarbagh, Patna",Construction & Demolition Waste,2024-07-18 05:40:24.88106+00,1000481124.jpg,person 2,546372
+182,Patna,25.6230208,85.1107005,An path road boring road ,Vehicle Pollution,2024-07-18 06:12:58.849775+00,1000147807.jpg,person 24,547361
+183,Patna,25.622263,85.1102614,Patliputra boys hostel boring road,Vehicle Pollution,2024-07-18 06:24:44.387877+00,1000147809.jpg,person 24,547725
+184,Patna,25.5945984,85.1204115,Mid noon,Vehicle Pollution,2024-07-18 07:07:45.944703+00,,person 4,538780
+186,Patna,25.6267338,85.1004952,Indrapuri 3A/31,Vehicle Pollution,2024-07-18 10:38:45.89632+00,IMG_20240718_160735.jpg,person 6,556068
+187,Patna,25.6282425,85.1016882,Indrapuri road 4,Vehicle Pollution,2024-07-18 10:44:10.057451+00,IMG_20240718_161250.jpg,person 6,556245
+188,Patna,25.6164787,85.109736,Shivpuri flyover,Vehicle Pollution,2024-07-18 10:51:21.632099+00,IMG_20240718_162008.jpg,person 6,556536
+189,Patna,25.6169334,85.110675,Shivpuri,Construction & Demolition Waste,2024-07-18 10:52:42.63781+00,IMG_20240718_162135.jpg,person 6,556572
+190,Patna,25.61321,85.1189459,Boaring canal road,Vehicle Pollution,2024-07-18 11:03:28.85753+00,IMG_20240718_163223.jpg,person 6,556963
+191,Patna,25.6140852,85.1139532,Sk puri park,Vehicle Pollution,2024-07-18 12:43:32.017734+00,IMG_20240718_181122.jpg,person 6,560560
+192,Rajendra Nagar,25.5961663,85.1700149,Evening record,Vehicle Pollution,2024-07-18 13:15:00.097436+00,,person 27,561741
+193,Rajendra Nagar,25.5985379,85.1695392,Evening data from kanti factory road,Vehicle Pollution,2024-07-18 13:25:39.436197+00,,person 27,562111
+194,Patna,25.6133921,85.1145398,Sk puri,Waste Burning,2024-07-18 13:26:58.88976+00,IMG_20240718_182833.jpg,person 6,562151
+195,Patna,25.5848254,85.1920916,Evening ,Vehicle Pollution,2024-07-18 13:27:27.096312+00,,person 4,538780
+196,Patna,25.6160136,85.1145236,Sk Puri park ,Waste Burning,2024-07-18 14:08:35.985286+00,1000147885.jpg,person 24,563705
+197,Patna,25.6163763,85.1139434,Boring road ,Vehicle Pollution,2024-07-18 14:09:17.809563+00,1000147893.jpg,person 24,563744
+198,Rajendra Nagar,25.59597414,85.17363889,Evening ,Vehicle Pollution,2024-07-18 14:51:35.986951+00,,person 4,538780
+199,Rajendra Nagar,25.59647069,85.17062906,Away from last position about 500m ,Waste Burning,2024-07-18 14:56:38.562904+00,1000123731.jpg,person 4,538780
+200,Rajendra Nagar,25.5985563,85.1685433,9,Vehicle Pollution,2024-07-18 15:35:01.496857+00,,person 27,566949
+201,Rajendra Nagar,25.5985563,85.1685433,Katni factory rush at 9,Vehicle Pollution,2024-07-18 15:36:06.108727+00,,person 27,566987
+202,Patna,25.60502413,85.08248846,"Bike causing air pollution on Raja Bazar Flyover in Patna, Bihar",Vehicle Pollution,2024-07-18 16:27:44.228449+00,1000481126.jpg,person 2,552224
+203,Patna,25.5946099,85.1298425,Pollution,Vehicle Pollution,2024-07-18 16:37:48.583706+00,,person 3,569101
+204,Rajendra Nagar,25.59881355,85.17573653,Bhoothnath ,Vehicle Pollution,2024-07-18 17:01:13.816019+00,,person 4,538780
+205,Rajendra Nagar,25.59643295,85.1731891,Chitragupta nagar,Vehicle Pollution,2024-07-19 02:08:07.945551+00,,person 27,589002
+206,Rajendra Nagar,25.5971485,85.1691461,Huge difference  in same road at 2 different point,Vehicle Pollution,2024-07-19 02:17:03.861921+00,,person 27,589313
+207,Rajendra Nagar,25.5960946,85.1732159,Morning pollution near park,Vehicle Pollution,2024-07-19 02:20:30.288814+00,,person 4,538780
+208,Rajendra Nagar,25.59866641,85.17277653,Morning ,Vehicle Pollution,2024-07-19 02:35:50.632505+00,,person 4,589956
+209,Patna,25.5943406,85.1294118,Construction pollution,Construction & Demolition Waste,2024-07-19 04:25:22.721717+00,1000130127.jpg,person 3,593807
+210,Patna,25.5979459,85.1273335,Pollution,Vehicle Pollution,2024-07-19 04:36:26.89492+00,,person 3,594225
+211,Patna,25.59403432,85.12914302,Construction pollution,Construction & Demolition Waste,2024-07-19 07:22:31.452743+00,1000130127_xb23Mt4.jpg,person 3,600100
+212,Rajendra Nagar,25.59566846,85.17292613,Noon pollution ,Vehicle Pollution,2024-07-19 07:28:51.526567+00,,person 4,600304
+213,Patna,25.6192712,85.1093868,An college patna technical department ,Vehicle Pollution,2024-07-19 08:46:47.640894+00,1000148043.jpg,person 24,602863
+214,Patna,25.6195291,85.1088697,An college Patna technical department ewm,Vehicle Pollution,2024-07-19 08:49:20.294439+00,IMG_20240719_141419.jpg,person 6,565072
+215,Rajendra Nagar,25.59731073,85.17339137,Not working properly ,Vehicle Pollution,2024-07-19 11:52:05.449061+00,,person 4,609593
+216,Rajendra Nagar,25.59408247,85.17342678,Evening ,Vehicle Pollution,2024-07-19 12:16:08.413445+00,,person 4,610497
+217,Rajendra Nagar,25.60115872,85.17047049,Kumhrar road,Vehicle Pollution,2024-07-19 12:40:41.927412+00,,person 27,611285
+218,Rajendra Nagar,25.5979092,85.1692953,Market reqdimg,Vehicle Pollution,2024-07-19 15:54:53.908716+00,,person 27,616308
+219,Rajendra Nagar,25.5967746,85.1731934,Chtrigupta nagar  traffic data at 9:30 ,Vehicle Pollution,2024-07-19 16:08:49.783077+00,,person 27,616792
+220,Rajendra Nagar,25.59775669,85.17357198,Pollution ,Vehicle Pollution,2024-07-19 17:05:22.650769+00,,person 4,618930
+221,Rajendra Nagar,25.59645002,85.17322249,Night pollution ,Vehicle Pollution,2024-07-19 17:35:29.631221+00,,person 4,620031
+222,Rajendra Nagar,25.59102304,85.15313863,Morning ,Vehicle Pollution,2024-07-20 03:09:51.661501+00,,person 4,640905
+223,Patna,25.6100066,85.1150889,Atal path,Vehicle Pollution,2024-07-20 06:40:25.604058+00,IMG_20240720_120916.jpg,person 6,648512
+224,Patna,25.6073666,85.1164952,Hartali morr,Vehicle Pollution,2024-07-20 06:42:40.23567+00,IMG_20240720_121156.jpg,person 6,648593
+225,Patna,25.6033024,85.1160411,Sachivalay,Vehicle Pollution,2024-07-20 07:03:19.877978+00,IMG_20240720_122857.jpg,person 6,649329
+226,Patna,25.6033128,85.1160136,Eco-park,Vehicle Pollution,2024-07-20 07:04:22.76826+00,IMG_20240720_123344.jpg,person 6,649442
+227,Patna,25.6266877,85.1002489,Indrapuri ,Brick Kilns,2024-07-20 08:15:20.663874+00,IMG_20240720_133654.jpg,person 6,652173
+228,Rajendra Nagar,25.5959883,85.1732271,Noon,Vehicle Pollution,2024-07-20 09:23:23.317771+00,,person 4,654746
+229,Patna,25.6119927,85.1188092,Slow traffic,Vehicle Pollution,2024-07-20 09:39:32.281308+00,20240720_150904.jpg,person 19,655193
+230,Rajendra Nagar,25.6037896,85.16706171,Vehicle Pollution. ,Vehicle Pollution,2024-07-20 13:59:04.361546+00,1000481131.jpg,person 2,665116
+231,Patna,25.60980571,85.12994382,Vehicle Pollution,Vehicle Pollution,2024-07-20 13:59:39.656952+00,1000481130.jpg,person 2,665159
+232,Rajendra Nagar,25.5961377,85.1731933,Inside room,Vehicle Pollution,2024-07-20 14:52:03.394753+00,,person 4,667373
+233,Patna,25.60985522,85.13770223,Traffic ,Vehicle Pollution,2024-07-20 15:11:13.082634+00,,person 5,668256
+234,Rajendra Nagar,25.6033866,85.1517673,Traffic at Rajendra Nagar ,Vehicle Pollution,2024-07-20 15:33:59.702822+00,,person 5,669303
+235,Rajendra Nagar,25.6025021,85.1630045,Rajendra Nagar terminal ,Vehicle Pollution,2024-07-20 15:39:03.228676+00,,person 5,669540
+236,Rajendra Nagar,25.5952513,85.1728261,Night ,Vehicle Pollution,2024-07-20 17:03:26.873136+00,,person 4,673587
+237,Rajendra Nagar,25.59635,85.1743369,Vechile pollution ,Vehicle Pollution,2024-07-21 02:00:09.989457+00,,person 27,697560
+238,Rajendra Nagar,25.59678191,85.17067433,Dumping of waste,Waste Burning,2024-07-21 02:07:08.814178+00,1000043393.jpg,person 27,697862
+239,Rajendra Nagar,25.5959541,85.1732537,Morning vibes ,Vehicle Pollution,2024-07-21 03:04:23.313784+00,1000124400.jpg,person 4,700351
+240,Rajendra Nagar,25.59759177,85.1735876,Clean sky,Vehicle Pollution,2024-07-21 04:45:19.414674+00,,person 4,704615
+241,Patna,25.6204436,85.1100786,Dr us rai clinic an path boring road ,Vehicle Pollution,2024-07-21 05:33:24.367207+00,1000149230.jpg,person 24,706606
+242,Patna,25.6197316,85.1118969,An path road,Vehicle Pollution,2024-07-21 05:36:36.552604+00,1000149232.jpg,person 24,706791
+243,Patna,25.6196667,85.1119111,Vivekanand marg,Vehicle Pollution,2024-07-21 05:37:04.140872+00,1000149233.jpg,person 24,706831
+244,Patna,25.6206277,85.112156,Vivekanand marg ,Vehicle Pollution,2024-07-21 05:38:43.202003+00,1000149235.jpg,person 24,706874
+245,Patna,25.6301607,85.1011536,Industrial area,Industrial Pollution,2024-07-21 06:17:55.628132+00,1000130708.jpg,person 3,708662
+246,Patna,25.6301733,85.1011327,Printing press,Industrial Pollution,2024-07-21 06:20:47.454061+00,1000130710.jpg,person 3,708792
+247,Rajendra Nagar,25.5959876,85.1732941,Pollution noon,Vehicle Pollution,2024-07-21 06:33:22.58017+00,,person 4,709373
+248,Patna,25.63100277,85.11798214,Construction activity,Construction & Demolition Waste,2024-07-21 06:34:58.333493+00,1000130712.jpg,person 3,709431
+249,Patna,25.61915339,85.14666611,"Concrete ,rubble , dust ",Construction & Demolition Waste,2024-07-21 07:55:23.400206+00,1000073723.jpg,person 17,712933
+250,Patna,25.6218501,85.1153308,Vivekanand marg ,Vehicle Pollution,2024-07-21 12:22:28.775509+00,1000149303.jpg,person 24,724431
+251,Patna,25.622084,85.1158209,Vivekanand marg ,Vehicle Pollution,2024-07-21 12:23:05.260329+00,1000149304.jpg,person 24,724479
+252,Rajendra Nagar,25.5962922,85.1731194,Evening ,Vehicle Pollution,2024-07-21 12:52:14.212102+00,,person 4,725769
+253,Patna,25.6094638,85.1033937,Rajbansi,Waste Burning,2024-07-21 13:10:26.153749+00,IMG_20240721_183828.jpg,person 6,726484
+254,Patna,25.5851224,85.1777001,Prominent pollutant ,Vehicle Pollution,2024-07-21 13:18:01.961331+00,,person 4,726859
+255,Patna,25.6223278,85.1163617,Vivekanand marg ,Vehicle Pollution,2024-07-21 13:24:36.131755+00,1000149306.jpg,person 24,727209
+256,Ranipur,25.57732891,85.20854192,After rain,Construction & Demolition Waste,2024-07-21 13:43:55.796074+00,1000124553.jpg,person 4,727900
+257,Patna,25.6232018,85.1316192,High CO2 emissions ,Vehicle Pollution,2024-07-21 13:45:48.800673+00,1000073846.jpg,person 17,728204
+258,Patna,25.6238955,85.1312069,Waste Burning- Very high PM 2.5 and PM 10 levels ,Waste Burning,2024-07-21 13:54:53.334473+00,1000073848.jpg,person 17,728580
+259,Ranipur,25.5821962,85.2124356,Sunday evening ,Vehicle Pollution,2024-07-21 14:03:59.457659+00,,person 4,729085
+260,Patna,25.6237685,85.1254963,"Location: Mainpura,Rajapur Pul. Construction site dust and rubble.  High PM10 ",Construction & Demolition Waste,2024-07-21 14:07:41.842899+00,1000073849.jpg,person 17,729192
+261,Patna,25.6214915,85.1234621,Location: Boring Canal Road. Vehicular Pollution ,Vehicle Pollution,2024-07-21 14:49:43.290978+00,1000073850.jpg,person 17,731135
+262,Rajendra Nagar,25.5996389,85.1769349,Bhoothnath,Vehicle Pollution,2024-07-21 16:35:55.326238+00,,person 5,735956
+263,Rajendra Nagar,25.59526955,85.17292179,Morning ,Vehicle Pollution,2024-07-22 00:44:16.169949+00,,person 4,756459
+264,Rajendra Nagar,25.596737,85.1715703,Traffic,Vehicle Pollution,2024-07-22 01:40:38.698227+00,,person 27,758838
+265,Rajendra Nagar,25.5968631,85.1706518,Waste dumped in open,Waste Burning,2024-07-22 01:43:13.328531+00,1000043430.jpg,person 27,758922
+266,Patna,25.6269374,85.1005113,Indrapuri 3A,Construction & Demolition Waste,2024-07-22 03:49:47.585378+00,IMG_20240722_091901.jpg,person 6,764289
+267,Rajendra Nagar,25.59618921,85.1761802,Away from location ,Vehicle Pollution,2024-07-22 03:52:35.049172+00,,person 4,764428
+268,Patna,25.6260634,85.1002852,Indrapuri 2A,Vehicle Pollution,2024-07-22 03:53:26.272959+00,IMG_20240722_092211.jpg,person 6,764466
+269,Patna,25.626002,85.1001155,Indrapuri 2A,Construction & Demolition Waste,2024-07-22 03:55:39.994897+00,IMG_20240722_092504.jpg,person 6,764552
+270,Digha,25.6514178,85.0913537,Near mhaveer hospital ,Vehicle Pollution,2024-07-22 04:12:44.428485+00,,person 8,652915
+271,Rajendra Nagar,25.5990086,85.1697387,Renovation work,Construction & Demolition Waste,2024-07-22 05:52:55.594101+00,1000043474.jpg,person 27,769695
+272,Rajendra Nagar,25.5963289,85.1732631,Evening ,Vehicle Pollution,2024-07-22 11:02:33.555725+00,,person 4,783459
+273,Sampatchak,25.5634403,85.1862381,Evening ,Construction & Demolition Waste,2024-07-22 12:24:23.200645+00,1000124949.jpg,person 4,787130
+274,Ranipur,25.57312574,85.21010283,Evening ,Construction & Demolition Waste,2024-07-22 12:44:17.963927+00,1000124949_eDFREej.jpg,person 4,788036
+275,Patna,25.5984491,85.1880175,Evening ,Vehicle Pollution,2024-07-22 14:31:29.328451+00,,person 4,792747
+276,Patna,25.6198339,85.1300374,Demolition waste : High PM 10 levels recorded ,Construction & Demolition Waste,2024-07-23 02:56:16.715176+00,1000074211.jpg,person 17,823874
+277,Patna,25.6176608,85.1210628,Vehicular Emissions ,Vehicle Pollution,2024-07-23 03:15:32.25833+00,1000074212.jpg,person 17,824744
+278,Patna,25.6195488,85.1223684,Construction and demolition waste ,Construction & Demolition Waste,2024-07-23 03:24:20.079453+00,1000074213.jpg,person 17,825070
+279,Rajendra Nagar,25.5961297,85.1731504,Morning ,Waste Burning,2024-07-23 04:57:40.569753+00,1000124400_o2RDfdK.jpg,person 4,829197
+280,Rajendra Nagar,25.5960506,85.1731815,Cloudy ,Vehicle Pollution,2024-07-23 05:32:13.260502+00,,person 4,830720
+281,Patna,25.59834984,85.12841226,Pollution ,Vehicle Pollution,2024-07-23 06:47:43.077159+00,20240716_182853_S5yuqwc.jpg,person 19,833923
+282,Patna,25.6218403,85.1137113,Tilak marg Vivekanand marg ,Vehicle Pollution,2024-07-23 09:13:15.946911+00,1000150130.jpg,person 24,840306
+283,Patna,25.6219395,85.1128069,Vivekanand marg ,Vehicle Pollution,2024-07-23 09:14:26.159188+00,1000150131.jpg,person 24,840350
+284,Patna,25.5860124,85.1815974,Evening ,Vehicle Pollution,2024-07-23 13:08:55.553508+00,,person 4,849119
+285,Mehdiganj,25.58373037,85.2164548,After construction ,Construction & Demolition Waste,2024-07-23 13:35:44.480623+00,1000125165.jpg,person 4,850314
+286,Ranipur,25.57627699,85.20846954,Evening ,Vehicle Pollution,2024-07-23 14:02:43.381264+00,,person 4,851579
+287,Ranipur,25.5721362,85.2138231,Night ,Construction & Demolition Waste,2024-07-23 14:50:22.340411+00,1000125176.jpg,person 4,853709
+288,Ranipur,25.5811973,85.2163669,Re,Vehicle Pollution,2024-07-23 14:55:23.714323+00,,person 4,853932
+289,Rajendra Nagar,25.5996389,85.1769349,Low traffic ,Vehicle Pollution,2024-07-23 17:15:22.994895+00,,person 5,860177
+290,Patna,25.6266912,85.1005133,Indrapuri,Vehicle Pollution,2024-07-24 02:17:17.271152+00,IMG_20240724_074500.jpg,person 6,885258
+291,Patna,25.6267015,85.1004677,Indrapuri 3A /31,Vehicle Pollution,2024-07-24 02:19:19.43725+00,IMG_20240724_074729.jpg,person 6,885350
+292,Patna,25.6259659,85.0994478,Indrapuri 2A,Vehicle Pollution,2024-07-24 02:28:01.163343+00,IMG_20240724_075649.jpg,person 6,885720
+293,Patna,25.6194581,85.1090778,Monitoring the air quality of vehicle exhaust emissions in the campus of An college. The college campus is with lush green spaces and adorned with trees and herbal gardens,Vehicle Pollution,2024-07-24 07:34:23.78124+00,1000117299.jpg,person 8,793115
+294,Patna,25.6224354,85.1056759,Atal path,Vehicle Pollution,2024-07-24 10:01:29.854426+00,IMG_20240724_153014.jpg,person 6,906663
+295,Patna,25.6126137,85.1045608,Energy park,Vehicle Pollution,2024-07-24 12:22:15.189455+00,IMG_20240724_175052.jpg,person 6,913057
+296,Patna,25.58494776,85.16806269,Evening ,Construction & Demolition Waste,2024-07-24 12:45:03.13534+00,1000125420.jpg,person 4,914117
+297,Patna,25.6099934,85.1380288,Vehicular Pollution ,Vehicle Pollution,2024-07-24 12:52:40.292256+00,1000074347.jpg,person 17,914485
+298,Rajendra Nagar,25.5996389,85.1769349,Weather after rain,Vehicle Pollution,2024-07-24 13:14:17.446229+00,,person 5,915591
+299,Rajendra Nagar,25.5960532,85.1732115,Humidity ,Industrial Pollution,2024-07-24 13:40:05.157513+00,1000125420_Ecv2ugQ.jpg,person 4,916795
+300,Rajendra Nagar,25.5961025,85.1732104,Nt,Vehicle Pollution,2024-07-24 15:35:24.280378+00,,person 4,922377
+301,Rajendra Nagar,25.5961026,85.1732042,Night ,Vehicle Pollution,2024-07-24 17:08:09.690367+00,,person 4,926948
+302,Patna,25.5862399,85.1782587,Bhagwat nagar main road,Vehicle Pollution,2024-07-25 01:00:02.773746+00,,person 27,949496
+303,Patna,25.6218875,85.1104123,An path boring road ,Vehicle Pollution,2024-07-25 05:58:48.00133+00,1000150365.jpg,person 24,963133
+304,Patna,25.6199397,85.1100627,An path road boring road ,Vehicle Pollution,2024-07-25 06:02:23.103661+00,1000150366.jpg,person 24,963274
+305,Patna,25.6188285,85.1095349,An college ,Vehicle Pollution,2024-07-25 06:05:03.683326+00,1000150367.jpg,person 24,963415
+306,Rajendra Nagar,25.5960151,85.1732016,Noon pollution ,Vehicle Pollution,2024-07-25 08:23:22.228457+00,,person 4,969827
+307,Patna,25.6195268,85.1091861,An college patna,Vehicle Pollution,2024-07-25 09:27:36.214206+00,1000150386.jpg,person 24,972596
+308,Patna,25.6194549,85.1094333,An college Environment department,Waste Burning,2024-07-25 09:29:40.441483+00,IMG_20240725_145449.jpg,person 6,972696
+309,Patna,25.6194878,85.1094263,An college patna ,Vehicle Pollution,2024-07-25 09:29:44.534541+00,1000150387.jpg,person 24,972735
+310,Patna,25.619209,85.1095496,An college canteen,Vehicle Pollution,2024-07-25 09:31:46.519387+00,IMG_20240725_150050.jpg,person 6,972791
+311,Patna,25.6195606,85.109465,An college boring road ,Waste Burning,2024-07-25 09:32:13.149978+00,1000150388.jpg,person 24,972829
+312,Patna,25.6195606,85.109465,Boring road ,Vehicle Pollution,2024-07-25 09:34:55.162981+00,1000150389.jpg,person 24,972974
+313,Patna,25.6196793,85.1100228,Boring road ,Vehicle Pollution,2024-07-25 09:35:50.472426+00,1000150390.jpg,person 24,973021
+314,Patna,25.6283851,85.1007187,Indrapuri ,Waste Burning,2024-07-25 09:45:17.445204+00,IMG_20240725_151414.jpg,person 6,973455
+315,Patna,25.60553,85.1374956,Patna junction,Vehicle Pollution,2024-07-25 10:53:26.65609+00,,person 27,976600
+316,Patna,25.5847291,85.1605176,Construction Waste. ,Construction & Demolition Waste,2024-07-25 11:04:08.540582+00,1000481133.jpg,person 2,964960
+317,Patna,25.6128161,85.1184965,Boring road chauraha,Vehicle Pollution,2024-07-25 11:07:00.338893+00,,person 27,977188
+318,Rajendra Nagar,25.5960434,85.1731988,Night ,Vehicle Pollution,2024-07-25 15:57:53.78365+00,,person 4,991598
+319,Patna,25.59688606,85.12619896,Increase in nitrogen and co,Vehicle Pollution,2024-07-25 17:03:46.084876+00,1000131666.jpg,person 3,994634
+320,Patna,25.622514,85.110496,An path road boring road ,Vehicle Pollution,2024-07-26 05:48:44.116369+00,1000150543.jpg,person 24,1029848
+321,Patna,25.6230163,85.1107082,Boring road ,Waste Burning,2024-07-26 05:49:37.70708+00,1000150544.jpg,person 24,1029895
+322,Patna,25.6228756,85.1106366,Boring road ,Vehicle Pollution,2024-07-26 05:50:57.216035+00,1000150545.jpg,person 24,1029988
+323,Patna,25.6237607,85.1108815,Boring road ,Vehicle Pollution,2024-07-26 05:53:47.624596+00,1000150546.jpg,person 24,1030134
+324,Patna,25.6236081,85.1108057,An path road ,Vehicle Pollution,2024-07-26 05:55:37.780618+00,1000150547.jpg,person 24,1030180
+325,Patna,25.5860204,85.1729235,Low traffic ,Vehicle Pollution,2024-07-26 11:09:20.38396+00,,person 4,1044474
+326,Ranipur,25.5721329,85.2138633,Construction ,Construction & Demolition Waste,2024-07-26 11:21:09.199866+00,1000125691.jpg,person 4,1044969
+327,Ranipur,25.5707319,85.2134707,Building ,Construction & Demolition Waste,2024-07-26 12:08:54.548953+00,1000125708.jpg,person 4,1047177
+328,Ranipur,25.5839493,85.2031391,NH,Vehicle Pollution,2024-07-26 12:17:48.056166+00,,person 4,1047493
+329,Patna,25.6189018,85.103089,Mahesh nagar  open dumping,Waste Burning,2024-07-26 12:27:28.59364+00,IMG_20240726_175547.jpg,person 6,1047981
+330,Patna,25.5997274,85.1802601,Service centre ,Industrial Pollution,2024-07-26 12:31:16.164894+00,1000125712.jpg,person 4,1048217
+331,Patna,25.6167158,85.1024477,East patel nagar open dumping,Waste Burning,2024-07-26 12:31:27.917438+00,IMG_20240726_175956.jpg,person 6,1048159
+332,Patna,25.5997575,85.1802405,Vehicle services ,Industrial Pollution,2024-07-26 12:37:35.038498+00,1000125713.jpg,person 4,1048404
+333,Patna,25.6193422,85.1103339,Boring road ,Vehicle Pollution,2024-07-26 12:39:50.938736+00,1000150772.jpg,person 24,1048617
+334,Patna,25.6132168,85.1189225,Boring road choraha ,Vehicle Pollution,2024-07-26 12:54:25.997004+00,1000150773.jpg,person 24,1049288
+335,Patna,25.5997414,85.1803463,Service ,Industrial Pollution,2024-07-26 12:54:28.401775+00,1000125714.jpg,person 4,1049307
+336,Patna,25.5918841,85.1798456,Evening ,Vehicle Pollution,2024-07-26 13:15:06.696111+00,,person 4,1050303
+337,Patna,25.6178553,85.121719,Rajapool boring road ,Vehicle Pollution,2024-07-26 13:23:05.86837+00,1000150775.jpg,person 24,1050670
+338,Patna,25.6164425,85.120912,Boring road patna ,Vehicle Pollution,2024-07-26 13:23:57.636678+00,1000150776.jpg,person 24,1050717
+339,Patna,25.61231,85.1185953,Boring road ,Vehicle Pollution,2024-07-26 14:02:10.856645+00,1000150777.jpg,person 24,1052530
+340,Patna,25.6221989,85.1287791,"Vehicular Pollution: High levels of PM 2.5 ,PM10 & CO2 recorded",Vehicle Pollution,2024-07-26 14:53:42.753987+00,1000074520.jpg,person 17,1054909
+341,Rajendra Nagar,25.5990726,85.1695173,Kati factory rush,Vehicle Pollution,2024-07-26 15:01:54.058525+00,,person 27,1055301
+342,Patna,25.626075,85.0993074,Indrapuri road no - 0 ,Construction & Demolition Waste,2024-07-27 01:55:00.77358+00,IMG_20240727_072225.jpg,person 6,1084851
+343,Patna,25.6261168,85.0980602,Rajeev nagar nala,Waste Burning,2024-07-27 01:59:35.415012+00,IMG_20240727_072750.jpg,person 6,1085124
+344,Patna,25.6260557,85.1000844,Indrapuri 3A /47 To produce methane,Waste Burning,2024-07-27 02:07:26.172182+00,IMG_20240727_073549.jpg,person 6,1085450
+345,Patna,25.6191903,85.1094299,An college ,Vehicle Pollution,2024-07-27 08:29:31.220389+00,1000151033.jpg,person 24,1102672
+346,Patna,25.6192645,85.1102702,Boring road ,Vehicle Pollution,2024-07-27 08:31:36.69467+00,1000151034.jpg,person 24,1102814
+347,Patna,25.6223824,85.1057361,Atal path,Vehicle Pollution,2024-07-27 09:38:52.011887+00,IMG_20240727_150740.jpg,person 6,1105902
+348,Patna,25.6287737,85.1009041,Indrapuri 3/22,Waste Burning,2024-07-27 09:46:21.747511+00,IMG_20240727_151501.jpg,person 6,1106282
+349,Rajendra Nagar,25.596044,85.1731744,Evening ,Vehicle Pollution,2024-07-27 11:22:04.812865+00,,person 4,1110839
+350,Patna,25.6217813,85.1103218,Boring road ,Vehicle Pollution,2024-07-27 11:39:48.265956+00,1000151038.jpg,person 24,1111686
+351,Patna,25.6205925,85.1101823,An path road ,Vehicle Pollution,2024-07-27 11:43:09.670031+00,1000151039.jpg,person 24,1111822
+352,Patna,25.6194993,85.1100676,Boring road ,Vehicle Pollution,2024-07-27 11:45:06.481058+00,1000151040.jpg,person 24,1111921
+353,Patna,25.6126367,85.1186008,Boring road choraha ,Vehicle Pollution,2024-07-27 11:53:59.890858+00,1000151041.jpg,person 24,1112340
+354,Patna,25.612255,85.1185031,Boring road ,Vehicle Pollution,2024-07-27 11:56:11.140124+00,1000151042.jpg,person 24,1112432
+355,Patna,25.6122649,85.1184449,Boring road patna ,Waste Burning,2024-07-27 11:57:11.274371+00,1000151043.jpg,person 24,1112477
+356,Patna,25.6119082,85.1200939,Boring road ,Vehicle Pollution,2024-07-27 13:50:26.805353+00,1000151044.jpg,person 24,1113830
+357,Rajendra Nagar,25.5969913,85.1691635,Vechile no Br03p3787,Vehicle Pollution,2024-07-27 15:23:09.311231+00,,person 27,1121910
+358,Rajendra Nagar,25.5969974,85.1691573,Vechile number Br01pd8728,Vehicle Pollution,2024-07-27 15:23:39.671898+00,,person 27,1121955
+359,Rajendra Nagar,25.5969974,85.1691573,Vechile no. Br1al3657,Vehicle Pollution,2024-07-27 15:24:03.981821+00,,person 27,1121955
+360,Rajendra Nagar,25.5960828,85.1732067,Night pollution ,Vehicle Pollution,2024-07-27 17:00:22.233206+00,,person 4,1126405
+361,Patna,25.6224701,85.0991479,North patel nagar,Waste Burning,2024-07-28 01:05:26.312358+00,IMG_20240728_063422.jpg,person 6,1147907
+362,Patna,25.6191113,85.100403,Patel nagar nala to produced methane,Waste Burning,2024-07-28 01:12:49.79741+00,IMG_20240728_064105.jpg,person 6,1148221
+363,Patna,25.620403,85.0997877,North patel nagar,Construction & Demolition Waste,2024-07-28 01:14:46.211264+00,IMG_20240728_064318.jpg,person 6,1148312
+364,Patna,25.620403,85.0997877,North patel nagar,Waste Burning,2024-07-28 01:17:39.457151+00,IMG_20240728_064551.jpg,person 6,1148451
+365,Patna,25.6239495,85.1009397,Kesari nagar,Waste Burning,2024-07-28 01:22:15.852424+00,IMG_20240728_065120.jpg,person 6,1148680
+366,Patna,25.6252397,85.1012548,Indrapuri road no 6,Waste Burning,2024-07-28 01:26:27.151915+00,IMG_20240728_065411.jpg,person 6,1148820
+367,Patna,25.6267187,85.1004765,Indrapuri,Vehicle Pollution,2024-07-28 01:30:00.057275+00,IMG_20240728_065909.jpg,person 6,1149048
+368,Rajendra Nagar,25.5960002,85.1733124,"There is sevear smoke around,",Vehicle Pollution,2024-07-28 01:38:57.163378+00,,person 4,1149415
+369,Rajendra Nagar,25.5957774,85.1717519,Normal cloudy weather ,Vehicle Pollution,2024-07-28 11:12:08.613179+00,,person 4,1155713
+370,Rajendra Nagar,25.5995973,85.1771758,Sunday evening ,Vehicle Pollution,2024-07-28 11:44:41.831118+00,,person 5,1175496
+371,Digha,25.6339712,85.101051,Coca cola factory,Industrial Pollution,2024-07-28 12:32:32.050051+00,IMG_20240728_180143.jpg,person 6,1177455
+372,Digha,25.6336421,85.1024427,PM 10 high indistrial arw,Industrial Pollution,2024-07-28 12:43:35.547525+00,IMG_20240728_181242.jpg,person 6,1177922
+373,Rajendra Nagar,25.599074,85.1695447,High no2 level,Vehicle Pollution,2024-07-28 13:16:11.982819+00,,person 27,1179280
+374,Rajendra Nagar,25.5996424,85.1773161,Traffic at night ,Vehicle Pollution,2024-07-28 17:52:56.579311+00,,person 5,1191190
+375,Rajendra Nagar,25.5996283,85.176611,Traffic at Monday morning ,Vehicle Pollution,2024-07-29 00:23:25.594714+00,,person 5,1207602
+376,Patna,25.6260973,85.0997818,Indrapuri road no _ 2 ,Vehicle Pollution,2024-07-29 02:28:33.492415+00,IMG_20240729_075645.jpg,person 6,1212933
+377,Patna,25.6255547,85.0982067,Kesari nagar D,Construction & Demolition Waste,2024-07-29 02:36:34.675613+00,IMG_20240729_080408.jpg,person 6,1213188
+378,Patna,25.6255547,85.0982067,Keasri nagar,Waste Burning,2024-07-29 02:38:55.834135+00,IMG_20240729_080814.jpg,person 6,1213364
+379,Patna,25.6233124,85.0967433,Keari nagar Pm high,Construction & Demolition Waste,2024-07-29 02:41:21.482438+00,IMG_20240729_081011.jpg,person 6,1213496
+380,Patna,25.6202876,85.1100591,An path ,Vehicle Pollution,2024-07-29 06:18:14.764308+00,1000151493.jpg,person 24,1222912
+381,Patna,25.6190767,85.1094224,An college patna ,Vehicle Pollution,2024-07-29 06:21:26.051207+00,1000151511.jpg,person 24,1223090
+382,Patna,25.6194972,85.1091403,An college ,Vehicle Pollution,2024-07-29 06:24:39.936912+00,1000151512.jpg,person 24,1223220
+383,Patna,25.6368143,85.1081422,Vehicular Pollution ,Vehicle Pollution,2024-07-29 06:24:52.428886+00,1000074792.jpg,person 17,1223270
+384,Patna,25.6375739,85.1089175,"Construction and demolition waste and pollution (rubble,dust etc)",Construction & Demolition Waste,2024-07-29 06:31:32.455433+00,1000074793.jpg,person 17,1223541
+385,Patna,25.6191748,85.1094774,An college ,Vehicle Pollution,2024-07-29 08:23:34.178908+00,1000151555.jpg,person 24,1228604
+386,Patna,25.6186497,85.1096832,An college patna ,Vehicle Pollution,2024-07-29 08:29:03.755063+00,1000151556.jpg,person 24,1228820
+387,Patna,25.61967,85.1096575,Boring road patna ,Vehicle Pollution,2024-07-29 08:53:03.192979+00,1000151564.jpg,person 24,1229890
+388,Patna,25.6197058,85.1099734,Boring road ,Vehicle Pollution,2024-07-29 08:53:27.776484+00,1000151565.jpg,person 24,1229890
+389,Rajendra Nagar,25.5960385,85.173215,Evening ,Vehicle Pollution,2024-07-29 11:46:47.639722+00,,person 4,1237568
+390,Patna,25.6245393,85.1100847,An path boring road ,Vehicle Pollution,2024-07-29 12:44:30.508882+00,1000151608.jpg,person 24,1240101
+391,Patna,25.6246154,85.1101001,Alpana market ,Vehicle Pollution,2024-07-29 12:45:39.437838+00,1000151612.jpg,person 24,1240149
+392,Patna,25.6266092,85.1101513,Patliputra road,Vehicle Pollution,2024-07-29 12:51:41.394185+00,1000151613.jpg,person 24,1240430
+393,Digha,25.6335073,85.1000602,Industrial area,Industrial Pollution,2024-07-29 12:51:54.293056+00,IMG_20240729_181937.jpg,person 6,1240484
+394,Digha,25.6337156,85.0993716,Industrial area,Industrial Pollution,2024-07-29 12:55:46.26048+00,IMG_20240729_182452.jpg,person 6,1240624
+395,Digha,25.6336869,85.0993817,Pipe industrial,Industrial Pollution,2024-07-29 12:57:16.592653+00,IMG_20240729_182612.jpg,person 6,1240671
+396,Patna,25.6258141,85.11041,Patliputra golambar road ,Vehicle Pollution,2024-07-29 12:57:39.795051+00,1000151614.jpg,person 24,1240710
+397,Patna,25.617829,85.1029195,Patel nagar,Construction & Demolition Waste,2024-07-29 13:24:59.685607+00,IMG_20240729_185304.jpg,person 6,1241967
+398,Digha,25.6313663,85.0993714,Rsjeev nagar,Vehicle Pollution,2024-07-30 02:21:16.988238+00,IMG_20240730_075024.jpg,person 6,1278461
+399,Patna,25.6304258,85.0993916,Rajeev nagar,Waste Burning,2024-07-30 02:22:53.257302+00,IMG_20240730_075138.jpg,person 6,1278509
+400,Patna,25.6306205,85.098888,Rajeev nagar,Construction & Demolition Waste,2024-07-30 02:24:20.390437+00,IMG_20240730_075327.jpg,person 6,1278610
+401,Patna,25.6306338,85.0984803,Open dumping Rajeev nagar nala,Waste Burning,2024-07-30 02:25:11.741326+00,IMG_20240730_075429.jpg,person 6,1278655
+402,Patna,25.6265188,85.0982845,Kesari nagar,Waste Burning,2024-07-30 02:30:25.171224+00,IMG_20240730_075928.jpg,person 6,1278905
+403,Rajendra Nagar,25.5960089,85.1731825,Clean sky ,Vehicle Pollution,2024-07-30 12:27:03.714777+00,,person 4,1308084
+404,Patna,25.6207951,85.1102442,An path boring road ,Vehicle Pollution,2024-07-30 12:35:14.741955+00,1000151725.jpg,person 24,1308415
+405,Patna,25.6188132,85.1110049,Boring road ,Construction & Demolition Waste,2024-07-30 12:39:38.971283+00,1000151726.jpg,person 24,1308665
+406,Patna,25.6183423,85.1117483,Boring road ,Vehicle Pollution,2024-07-30 12:42:27.507341+00,1000151727.jpg,person 24,1308817
+407,Patna,25.6166865,85.1123909,Krishna apartment boring road ,Vehicle Pollution,2024-07-30 12:45:19.274033+00,1000151728.jpg,person 24,1308978
+408,Patna,25.616073,85.1126225,S k Puri boring road ,Vehicle Pollution,2024-07-30 12:46:42.689845+00,1000151729.jpg,person 24,1309084
+409,Patna,25.6151718,85.1134337,S k Puri boring road ,Construction & Demolition Waste,2024-07-30 12:48:50.984746+00,1000151730.jpg,person 24,1309187
+410,Patna,25.6148555,85.1148264,Sk Puri boring road ,Vehicle Pollution,2024-07-30 12:52:52.497025+00,1000151731.jpg,person 24,1309342
+411,Ranipur,25.5705752,85.2134141,Evening ,Construction & Demolition Waste,2024-07-30 12:53:10.009327+00,1000126936.jpg,person 4,1309415
+412,Patna,25.6147072,85.1152421,Sk puri,Vehicle Pollution,2024-07-30 12:58:12.832518+00,IMG_20240730_182006.jpg,person 6,1309661
+413,Patna,25.6149115,85.114772,S k Puri boring road ,Construction & Demolition Waste,2024-07-30 13:12:13.925223+00,1000151732.jpg,person 24,1310349
+414,Ranipur,25.5754513,85.2087227,Outside patna,Construction & Demolition Waste,2024-07-30 13:39:45.595533+00,1000126936_rv1MXJP.jpg,person 4,1311760
+415,Patna,25.6131757,85.1173234,Shivpuri,Vehicle Pollution,2024-07-30 14:16:37.058884+00,IMG_20240730_194451.jpg,person 6,1313641
+416,Rajendra Nagar,25.5967196,85.1747081,Bhootnath road,Vehicle Pollution,2024-07-30 14:32:15.436298+00,,person 27,1314424
+417,Patna,25.6260332,85.0989505,Indrapuri,Waste Burning,2024-07-31 01:52:50.049138+00,IMG_20240731_072109.jpg,person 6,1347208
+418,Patna,25.6223613,85.0962916,Sushant singh rajput chowk,Waste Burning,2024-07-31 01:59:04.562281+00,IMG_20240731_072742.jpg,person 6,1347499
+419,Digha,25.6308432,85.0978484,Rajeev nagar,Vehicle Pollution,2024-07-31 02:07:24.453478+00,IMG_20240731_073626.jpg,person 6,1347944
+420,Patna,25.6308062,85.0976526,Rajeev nagar road no -4,Construction & Demolition Waste,2024-07-31 02:09:11.30652+00,IMG_20240731_073800.jpg,person 6,1348044
+421,Patna,25.6284158,85.1007487,Indrapuri,Waste Burning,2024-07-31 02:15:54.953361+00,IMG_20240731_074423.jpg,person 6,1348342
+422,Rajendra Nagar,25.596056,85.1732556,Morning but to much humidity ,Vehicle Pollution,2024-07-31 03:22:32.087301+00,,person 4,1351608
+423,Digha,25.64231,85.0911182,"Crowd of vehicles, ",Vehicle Pollution,2024-07-31 04:25:16.762826+00,IMG-20240729-WA0055.jpg,person 8,1243002
+424,Patna,25.6212597,85.1102576,An path boring road ,Vehicle Pollution,2024-07-31 07:01:20.601483+00,1000151850.jpg,person 24,1359972
+425,Patna,25.6191529,85.1104093,Boring road ,Vehicle Pollution,2024-07-31 07:04:58.93595+00,1000151851.jpg,person 24,1362165
+426,Patna,25.6174535,85.1127423,Sk Puri boring road ,Vehicle Pollution,2024-07-31 07:07:12.910505+00,1000151852.jpg,person 24,1362265
+427,Patna,25.612933,85.1188365,Boring road choraha ,Vehicle Pollution,2024-07-31 07:10:28.650241+00,1000151853.jpg,person 24,1362414
+428,Rajendra Nagar,25.5960523,85.1732317,Noob,Vehicle Pollution,2024-07-31 07:22:26.884997+00,,person 4,1363039
+429,Rajendra Nagar,25.5960503,85.1735247,Open waste disposal,Waste Burning,2024-07-31 07:25:46.780368+00,1000044422.jpg,person 27,1363217
+430,Patna,25.6127505,85.11865,Boring road choraha ,Vehicle Pollution,2024-07-31 08:01:04.885773+00,1000151858.jpg,person 24,1364978
+431,Patna,25.6193112,85.1094054,An college patna ,Vehicle Pollution,2024-07-31 08:08:27.956066+00,1000151859.jpg,person 24,1365316
+432,Rajendra Nagar,25.5959847,85.1732057,Rainbow ,Industrial Pollution,2024-07-31 11:15:04.00785+00,1000127130.jpg,person 4,1374173
+433,Rajendra Nagar,25.5960382,85.173216,After rain ,Vehicle Pollution,2024-07-31 13:48:15.749029+00,,person 4,1381516
+434,Patna,25.6265121,85.1007944,Indrapuri,Waste Burning,2024-08-01 01:24:53.646618+00,IMG_20240801_064938.jpg,person 6,1414049
+435,Patna,25.6267199,85.1008012,Indrapuri,Waste Burning,2024-08-01 01:27:10.670595+00,IMG_20240801_065440.jpg,person 6,1414244
+436,Patna,25.6276909,85.1011859,Indrapuri,Waste Burning,2024-08-01 01:30:15.844265+00,IMG_20240801_065745.jpg,person 6,1414432
+437,Patna,25.6282229,85.1016924,Indrapuri,Vehicle Pollution,2024-08-01 01:32:18.359853+00,IMG_20240801_070020.jpg,person 6,1414530
+438,Patna,25.6279077,85.1015549,Indrapuri,Construction & Demolition Waste,2024-08-01 01:34:04.019225+00,IMG_20240801_070201.jpg,person 6,1414578
+439,Rajendra Nagar,25.5996389,85.1769349,Data after rain,Vehicle Pollution,2024-08-01 04:53:09.064348+00,,person 5,1423700
+440,Patna,25.6215108,85.1102815,An path boring road ,Vehicle Pollution,2024-08-01 05:46:07.344323+00,1000152028.jpg,person 24,1426121
+441,Patna,25.6205301,85.1101754,An path road ,Vehicle Pollution,2024-08-01 11:14:57.214623+00,1000152133.jpg,person 24,1440599
+442,Rajendra Nagar,25.5996254,85.1773015,Data after rain,Vehicle Pollution,2024-08-01 17:22:15.32811+00,,person 5,1458057
+443,Patna,25.6213175,85.110215,An path,Vehicle Pollution,2024-08-02 04:57:37.567776+00,1000152288.jpg,person 24,1490514
+444,Patna,25.6196809,85.1099282,An college road,Vehicle Pollution,2024-08-02 05:02:26.552963+00,1000152292.jpg,person 24,1490757
+445,Khagaul,25.580602,85.0530112,Waste pollution ,Waste Burning,2024-08-02 08:54:32.365561+00,VideoCapture_20240802-142331.jpg,person 8,1501907
+446,Patna,25.6232215,85.068443,Waste pollution ,Waste Burning,2024-08-02 09:16:11.829723+00,VideoCapture_20240802-144536.jpg,person 8,1502600
+447,Digha,25.6499259,85.07984,Construction work ,Industrial Pollution,2024-08-02 09:22:28.445579+00,20240802_145014.jpg,person 8,1503300
+448,Rajendra Nagar,25.59651519,85.17237027,Noon clean sky ,Vehicle Pollution,2024-08-02 09:36:08.902698+00,,person 4,1503965
+449,Digha,25.6337082,85.1030898,Soot particles,Industrial Pollution,2024-08-02 12:07:33.55351+00,IMG_20240802_173632.jpg,person 6,1511165
+450,Patna,25.6338112,85.1064541,P and M mall,Vehicle Pollution,2024-08-02 12:12:53.258025+00,IMG_20240802_174135.jpg,person 6,1511410
+451,Patna,25.6297203,85.1041896,Sai msndir,Vehicle Pollution,2024-08-02 12:16:09.989627+00,IMG_20240802_174524.jpg,person 6,1511605
+452,Patna,25.6273079,85.1109848,Dust Particles,Vehicle Pollution,2024-08-02 12:22:30.550506+00,IMG_20240802_175143.jpg,person 6,1511906
+453,Patna,25.6206876,85.1083771,Methane produced,Waste Burning,2024-08-02 12:30:01.914384+00,IMG_20240802_175854.jpg,person 6,1512247
+454,Ranipur,25.5792653,85.2207881,Construction ,Brick Kilns,2024-08-02 12:54:34.823622+00,1000128097.jpg,person 4,1513511
+455,Rajendra Nagar,25.5950818,85.1730477,After rain ,Construction & Demolition Waste,2024-08-03 08:44:36.194768+00,1000128461.jpg,person 4,1569268
+456,Patna,25.6197513,85.1081874,Waste material ,Construction & Demolition Waste,2024-08-03 09:29:58.596827+00,1000081853.jpg,person 18,1571376
+457,Patna,25.6223869,85.1104625,An path,Vehicle Pollution,2024-08-03 13:10:12.985019+00,1000152507.jpg,person 24,1581611
+458,Patna,25.621924,85.1104341,An path,Waste Burning,2024-08-03 13:10:55.8823+00,1000152508.jpg,person 24,1581656
+459,Patna,25.6213292,85.1102954,An path boring road ,Vehicle Pollution,2024-08-03 13:12:30.349549+00,1000152509.jpg,person 24,1581704
+460,Rajendra Nagar,25.5962105,85.1736956,Data after rain  ,Vehicle Pollution,2024-08-03 17:35:38.422881+00,,person 5,1593945
+461,Rajendra Nagar,25.5957811,85.1730226,Data of Sunday morning ,Vehicle Pollution,2024-08-04 02:18:00.355728+00,,person 5,1617308
+462,Rajendra Nagar,25.6061352,85.17517269,Garbage waste ,Waste Burning,2024-08-04 03:16:05.043211+00,1000154549.jpg,person 26,1616801
+463,Rajendra Nagar,25.61110919,85.17685689,Garbage waste ,Waste Burning,2024-08-04 03:17:29.75809+00,1000154533.jpg,person 26,1616801
+464,Rajendra Nagar,25.6061614,85.17742082,Garbage waste ,Waste Burning,2024-08-04 03:22:45.994429+00,1000154547.jpg,person 26,1620047
+465,Digha,25.6517977,85.0916781,"In a gas agency,  chances of leaking of gases",Industrial Pollution,2024-08-04 12:23:33.004157+00,20240804_094009.jpg,person 8,1623350
+466,Patna,25.628329,85.095349,Rajeev nagar road no - 9,Construction & Demolition Waste,2024-08-04 13:06:15.34366+00,IMG_20240804_183457.jpg,person 6,1644719
+467,Patna,25.6309506,85.0956706,Rajeev nagar road no 10,Construction & Demolition Waste,2024-08-04 13:10:50.661013+00,IMG_20240804_183936.jpg,person 6,1644900
+468,Rajendra Nagar,25.5961665,85.1731925,Night pollution ,Vehicle Pollution,2024-08-04 19:57:15.110784+00,,person 4,1663519
+469,Digha,25.6395681,85.093736,To produce carbon monoxide,Waste Burning,2024-08-05 02:01:15.928307+00,IMG_20240805_072819.jpg,person 6,1680115
+470,Digha,25.6405738,85.0926006,To produce methane,Waste Burning,2024-08-05 02:02:17.353944+00,IMG_20240805_073130.jpg,person 6,1680256
+471,Patna,25.6296228,85.1007491,Rajeev nagar,Vehicle Pollution,2024-08-05 02:11:50.250086+00,IMG_20240805_074022.jpg,person 6,1680681
+472,Patna,25.6216273,85.1102836,An path,Waste Burning,2024-08-05 05:34:36.239118+00,1000152912.jpg,person 24,1690115
+473,Patna,25.6194426,85.1089903,An college ,Vehicle Pollution,2024-08-05 06:04:51.396327+00,1000152913.jpg,person 24,1691595
+474,Rajendra Nagar,25.5960943,85.1732168,Noon after rain ,Brick Kilns,2024-08-05 08:17:29.81038+00,1000129200.jpg,person 4,1697601
+475,Rajendra Nagar,25.5961749,85.1731665,Humidity ,Industrial Pollution,2024-08-05 08:36:58.777318+00,1000129200_i3Lc5WA.jpg,person 4,1698522
+476,Priyadarshi Nagar,25.6070833,85.0686738,Vehicular Pollution high co2 levels ,Vehicle Pollution,2024-08-05 13:08:29.97777+00,1000075871.jpg,person 17,1711414
+477,Patna,25.6241334,85.0730065,Construction and demolition waste ,Construction & Demolition Waste,2024-08-05 13:26:47.634248+00,1000075872.jpg,person 17,1712339
+478,Patna,25.6035031,85.0888848,Open waste dumping ,Waste Burning,2024-08-06 10:52:39.363679+00,,person 13,1771753
+479,Patna,25.6238709,85.1046157,Mahesh nagar,Construction & Demolition Waste,2024-08-06 12:21:10.822049+00,IMG_20240806_174943.jpg,person 6,1775829
+480,Patna,25.6190052,85.1029073,Methane produced highly amount,Waste Burning,2024-08-06 12:26:12.359979+00,IMG_20240806_175428.jpg,person 6,1776066
+481,Patna,25.6104185,85.1087392,Carbon monoxide produced,Waste Burning,2024-08-06 12:33:11.933083+00,IMG_20240806_180044.jpg,person 6,1776394
+482,Patna,25.6218096,85.110371,An oath,Vehicle Pollution,2024-08-06 12:53:14.672586+00,1000153098.jpg,person 24,1777411
+483,Patna,25.6207528,85.1101706,An path,Vehicle Pollution,2024-08-06 12:59:15.695965+00,1000153099.jpg,person 24,1777655
+484,Patna,25.6207528,85.1101706,Ab college patna,Vehicle Pollution,2024-08-06 13:00:45.535944+00,1000153100.jpg,person 24,1777801
+485,Patna,25.6191361,85.110432,An college patna ,Vehicle Pollution,2024-08-06 13:01:54.356046+00,1000153101.jpg,person 24,1777850
+486,Patna,25.6191981,85.1103886,Boring road ,Construction & Demolition Waste,2024-08-06 13:02:37.35633+00,1000153102.jpg,person 24,1777850
+487,Patna,25.6195677,85.109953,Boring road ,Vehicle Pollution,2024-08-06 13:06:49.199575+00,1000153103.jpg,person 24,1778044
+488,Patna,25.6197751,85.1100104,Boring road ,Construction & Demolition Waste,2024-08-06 13:12:50.073327+00,1000153104.jpg,person 24,1778391
+489,Rajendra Nagar,25.5959756,85.1731985,Midnight ,Brick Kilns,2024-08-06 20:21:18.750298+00,1000128466.jpg,person 4,1799303
+490,Patna,25.6174761,85.1124265,An college patna ,Vehicle Pollution,2024-08-07 05:59:35.298967+00,1000153199.jpg,person 24,1826176
+491,Patna,25.6165472,85.1122035,S k puri,Vehicle Pollution,2024-08-07 06:03:03.690173+00,,person 24,1826176
+492,Patna,25.6158683,85.1127614,Sk puri,Vehicle Pollution,2024-08-07 06:04:01.907134+00,1000153201.jpg,person 24,1826550
+493,Patna,25.6151849,85.1134306,Boring road ,Vehicle Pollution,2024-08-07 06:05:58.15189+00,1000153202.jpg,person 24,1826593
+494,Patna,25.6147536,85.1138374,Sk puri boring road ,Vehicle Pollution,2024-08-07 06:08:39.365878+00,1000153203.jpg,person 24,1826721
+495,Patna,25.6132405,85.1279604,Black smoke,Vehicle Pollution,2024-08-07 13:20:52.992511+00,IMG_20240807_184819.jpg,person 13,1834370
+496,Digha,25.6330278,85.1012823,Dust particles,Waste Burning,2024-08-08 12:18:44.605312+00,IMG_20240808_174652.jpg,person 6,1909201
+497,Digha,25.6358918,85.0990118,Patliputra industrial area,Construction & Demolition Waste,2024-08-08 12:23:06.173929+00,IMG_20240808_175116.jpg,person 6,1909385
+498,Digha,25.6357996,85.0991113,Balpur kurji,Industrial Pollution,2024-08-08 12:24:15.743722+00,IMG_20240808_175315.jpg,person 6,1909475
+499,Patna,25.6193215,85.1482955,Construction and demolition waste ,Construction & Demolition Waste,2024-08-08 14:20:27.939227+00,1000076313.jpg,person 17,1914878
+500,Patna,25.6168473,85.1484959,Vehicular Pollution: High PM 2.5 & PM 10 levels ,Vehicle Pollution,2024-08-08 14:25:30.68846+00,1000076314.jpg,person 17,1915121
+501,Patna,25.6214286,85.110296,Boring road ,Vehicle Pollution,2024-08-09 05:38:00.660588+00,1000153591.jpg,person 24,1955938
+502,Patna,25.6199769,85.1100366,An path ,Vehicle Pollution,2024-08-09 05:40:49.109945+00,1000153592.jpg,person 24,1956076
+503,Patna,25.6190102,85.1101114,Aj college patna ,Vehicle Pollution,2024-08-09 05:43:19.290838+00,1000153593.jpg,person 24,1956166
+504,Patna,25.6277538,85.1003771,Indrapuri,Waste Burning,2024-08-09 12:26:02.92649+00,IMG_20240809_175448.jpg,person 6,1973939
+505,Patna,25.618894,85.1028654,Mahesh nagar,Waste Burning,2024-08-09 12:55:51.697555+00,IMG_20240809_182409.jpg,person 6,1975257
+506,Patna,25.618454,85.1026264,Patel nagar,Construction & Demolition Waste,2024-08-09 12:57:20.829728+00,IMG_20240809_182556.jpg,person 6,1975308
+507,Patna,25.6234709,85.1114116,An path,Vehicle Pollution,2024-08-10 11:38:28.853894+00,1000153814.jpg,person 24,2036151
+508,Patna,25.6231293,85.111423,Vivekanand marg ,Vehicle Pollution,2024-08-10 11:38:58.565616+00,1000153815.jpg,person 24,2036199
+509,Patna,25.6230527,85.1115536,Vivekanand marg ,Vehicle Pollution,2024-08-10 11:40:03.706298+00,1000153816.jpg,person 24,2036243
+510,Patna,25.6228329,85.1116092,Vivekanand marg ,Construction & Demolition Waste,2024-08-10 11:40:58.566728+00,1000153817.jpg,person 24,2036243
+511,Patna,25.622294,85.1114785,Vivekanand marg ,Vehicle Pollution,2024-08-10 11:42:14.94442+00,1000153818.jpg,person 24,2036328
+512,Patna,25.6219698,85.1118917,Vivekanand marg ,Vehicle Pollution,2024-08-10 13:40:22.394385+00,1000153826.jpg,person 24,2041559
+513,Patna,25.6035028,85.0888861,Heavy smoke emission,Vehicle Pollution,2024-08-11 05:22:16.91697+00,IMG_20240810_184544.jpg,person 13,2050447
+514,Digha,25.6338187,85.1023211,Patliputra industrial area,Industrial Pollution,2024-08-11 11:17:53.684018+00,IMG_20240811_164645.jpg,person 6,2097948
+515,Patna,25.6295711,85.1035799,Sai mandir,Construction & Demolition Waste,2024-08-11 11:28:04.979169+00,IMG_20240811_165725.jpg,person 6,2098389
+516,Patna,25.6222345,85.1052585,Burning of plastic,Waste Burning,2024-08-11 11:45:10.011454+00,IMG_20240811_171302.jpg,person 6,2099140
+517,Patna,25.621268,85.1047976,Mahesh nagar road no.- 3,Waste Burning,2024-08-11 11:47:36.920735+00,IMG_20240811_171621.jpg,person 6,2099223
+518,Patna,25.6215721,85.1102928,An path ,Vehicle Pollution,2024-08-12 05:35:57.590385+00,1000154098.jpg,person 24,2042018
+519,Patna,25.6191283,85.1100571,An college ,Vehicle Pollution,2024-08-12 09:49:43.319309+00,1000154183.jpg,person 24,2147365
+520,Patna,25.6205632,85.1101758,An path ,Vehicle Pollution,2024-08-12 09:50:32.82991+00,1000154184.jpg,person 24,2157901
+521,Rajendra Nagar,25.59600865,85.17205612,Evening ,Vehicle Pollution,2024-08-12 13:16:05.431701+00,,person 4,2167143
+522,Rajendra Nagar,25.5957206,85.1732491,Traffic at morning ,Vehicle Pollution,2024-08-13 02:49:35.094456+00,,person 5,2204485
+523,Patna,25.6263168,85.0974622,Rajeev nagae,Vehicle Pollution,2024-08-13 12:40:20.362262+00,IMG_20240813_180827.jpg,person 6,2230762
+524,Patna,25.6222426,85.094397,Sushant singh rajput chowk,Construction & Demolition Waste,2024-08-13 12:44:12.371348+00,IMG_20240813_181311.jpg,person 6,2230952
+525,Patna,25.6198466,85.1099624,An path,Vehicle Pollution,2024-08-14 05:30:12.303035+00,1000154506.jpg,person 24,2274060
+526,Patna,25.6187738,85.1097757,An college patna ,Vehicle Pollution,2024-08-14 05:33:14.593629+00,1000154507.jpg,person 24,2274181
+527,Shiroishi,38.08268954,140.4819021,Wwwww,Waste Burning,2024-08-14 09:30:32.762462+00,1000137672.jpg,person 3,2284118
+528,Patna,25.6203634,85.1100408,An path ,Vehicle Pollution,2024-08-14 10:10:55.538953+00,1000154548.jpg,person 24,2285868
+529,Digha,25.6328171,85.1049261,Industrial area,Construction & Demolition Waste,2024-08-14 12:23:33.522248+00,IMG_20240814_175242.jpg,person 6,2291657
+530,Patna,25.6324816,85.1058977,P and m mall,Construction & Demolition Waste,2024-08-14 12:25:19.676638+00,IMG_20240814_175434.jpg,person 6,2291699
+531,Patna,25.6182813,85.1116279,An college patna,Vehicle Pollution,2024-08-14 12:58:18.919386+00,1000154582.jpg,person 24,2293186
+532,Patna,25.6183304,85.1116118,An path,Vehicle Pollution,2024-08-14 12:59:23.742816+00,IMG_20240814_182837.jpg,person 6,2293216
+533,Patna,25.6186082,85.1111827,Boring road ,Vehicle Pollution,2024-08-14 13:17:23.192478+00,1000154584.jpg,person 24,2294064
+534,Patna,25.617977,85.1217653,Vehicular Pollution ,Vehicle Pollution,2024-08-14 15:14:34.299416+00,1000077095.jpg,person 17,2299218
+535,Patna,25.6220866,85.1101392,An path,Waste Burning,2024-08-16 05:26:32.527005+00,1000155354.jpg,person 24,2294113
+536,Patna,25.6184765,85.1093788,An college patna ,Vehicle Pollution,2024-08-16 05:35:57.754051+00,1000155355.jpg,person 24,2400099
+537,Patna,25.6192085,85.1103051,An college patna ,Vehicle Pollution,2024-08-16 09:52:11.609003+00,1000155367.jpg,person 24,2411101
+538,Patna,25.6201036,85.1100854,Boring road petrol pump ,Vehicle Pollution,2024-08-16 09:56:25.803262+00,1000155368.jpg,person 24,2411234
+539,Khagaul,25.58200446,85.04019337,Car Pollution ,Vehicle Pollution,2024-08-17 05:28:27.575325+00,IMG_4692.jpeg,person 2,2405718
+540,Khagaul,25.58002512,85.0233698,Pollution,Construction & Demolition Waste,2024-08-17 05:31:46.607696+00,IMG_4693.jpeg,person 2,2405718
+541,Khagaul,25.57991802,85.02229466,Pollution ,Construction & Demolition Waste,2024-08-17 05:32:27.680684+00,image.jpg,person 2,2405718
+542,Khagaul,25.58200446,85.04019337,Pollution ,Construction & Demolition Waste,2024-08-17 05:37:28.838395+00,IMG_4696.jpeg,person 2,2405718
+543,Danapur,25.5817317,85.00353403,Pollution ,Construction & Demolition Waste,2024-08-17 05:37:57.407939+00,IMG_4695.jpeg,person 2,2405718
+544,Patna,25.6230418,85.1114121,Vivekanand marg ,Vehicle Pollution,2024-08-17 10:23:47.146364+00,,person 24,2474127
+545,Patna,25.6196295,85.1106426,Vivekanand marg ,Vehicle Pollution,2024-08-18 09:59:52.846034+00,1000156189.jpg,person 24,2536998
+546,Patna,25.6137414,85.119161,Construction and demolition waste ,Construction & Demolition Waste,2024-08-19 12:54:53.686184+00,1000078268.jpg,person 17,2604361
+547,Patna,25.6200028,85.1227914,Construction and demolition waste ,Construction & Demolition Waste,2024-08-19 13:21:39.508914+00,1000078294.jpg,person 17,2605550
+548,Patna,25.6216396,85.1103184,An path ,Vehicle Pollution,2024-08-20 05:16:54.171133+00,1000157315.jpg,person 24,2552433
+549,Patna,25.6188343,85.109208,An college patna ,Vehicle Pollution,2024-08-20 05:27:05.528425+00,1000157316.jpg,person 24,2552433
+550,Patna,25.6185887,85.1099058,An college ,Vehicle Pollution,2024-08-20 08:34:13.523849+00,1000157337.jpg,person 24,2656315
+551,Patna,25.6206445,85.1228786,Vehicular Pollution ,Vehicle Pollution,2024-08-20 15:00:02.233764+00,1000078953.jpg,person 17,2673320
+552,Danapur,25.63126488,85.02470642,Away from sensor ,Vehicle Pollution,2024-08-20 15:54:10.928985+00,,person 4,2200038
+553,Patna,25.6242772,85.1103156,An path ,Vehicle Pollution,2024-08-21 13:05:16.900873+00,,person 24,2728274
+554,Patna,25.6244712,85.1100378,An path,Vehicle Pollution,2024-08-21 13:06:34.559872+00,1000157510.jpg,person 24,2728447
+555,Patna,25.6244823,85.1100682,Patliputra road,Vehicle Pollution,2024-08-21 13:07:12.724724+00,1000157511.jpg,person 24,2728491
+556,Patna,25.6245257,85.1100744,Patliputra road,Vehicle Pollution,2024-08-21 13:32:37.341888+00,1000157524.jpg,person 24,2729575
+557,Patna,25.6236009,85.1108254,An path ,Vehicle Pollution,2024-08-21 13:42:14.606101+00,1000157525.jpg,person 24,2730005
+558,Patna,25.58603396,85.17836143,Construction ,Construction & Demolition Waste,2024-08-22 02:17:42.238592+00,1000047642.jpg,person 27,2761516
+559,Patna,25.6190666,85.1100466,An college ,Vehicle Pollution,2024-08-22 05:22:09.589553+00,1000157637.jpg,person 24,2769532
+560,Patna,25.6198036,85.1100423,An path ,Vehicle Pollution,2024-08-23 05:27:21.156663+00,1000157894.jpg,person 24,2826776
+561,Patna,25.6196002,85.1100199,Vivekanand marg ,Vehicle Pollution,2024-08-23 05:29:49.443803+00,1000157895.jpg,person 24,2826816
+562,Patna,25.6178201,85.1083837,An college ,Vehicle Pollution,2024-08-23 09:00:41.615283+00,1000157978.jpg,person 24,2835218
+563,Kolkata,22.5094375,88.4060125,Evening ,Vehicle Pollution,2024-08-23 11:46:52.315052+00,,person 4,2836426
+564,Patna,25.60441251,85.08925324,Smoke emission ,Vehicle Pollution,2024-08-23 12:59:59.702558+00,IMG_20240823_151033.jpg,person 13,2708052
+565,Patna,25.6124338,85.1192268,Boring road choraha ,Vehicle Pollution,2024-08-24 11:51:46.346807+00,1000158292.jpg,person 24,2902512
+566,Patna,25.6123601,85.1192675,High court road boring road ,Vehicle Pollution,2024-08-24 11:52:33.457476+00,1000158293.jpg,person 24,2902555
+567,Patna,25.6120629,85.1195072,Boring road High court road,Vehicle Pollution,2024-08-24 12:07:41.557113+00,1000158294.jpg,person 24,2903171
+568,Patna,25.6205722,85.1101684,An pata ,Vehicle Pollution,2024-08-24 13:32:09.389249+00,1000158296.jpg,person 24,2906831
+569,Patna,25.5923489,85.1250016,Road construction activity ,Construction & Demolition Waste,2024-08-24 15:35:45.937141+00,20240824_210246.jpg,person 19,2912009
+570,Patna,25.58560344,85.17829701,Near NH,Vehicle Pollution,2024-08-26 01:45:02.05974+00,,person 27,2998175
+571,Patna,25.6221568,85.1104839,An path,Vehicle Pollution,2024-08-27 05:18:27.937355+00,1000159604.jpg,person 24,3064933
+572,Patna,25.6195941,85.1108156,An path ,Vehicle Pollution,2024-08-27 05:56:43.948794+00,1000159635.jpg,person 24,3066706
+573,Patna,25.59801553,85.12576572,Pollution,Vehicle Pollution,2024-08-28 03:01:57.990467+00,1000141897.jpg,person 3,3119985
+574,Patna,25.6206316,85.1228611,West boaring road,Vehicle Pollution,2024-08-28 12:33:42.549464+00,IMG_20240828_180135.jpg,person 6,3144453
+575,Patna,25.6206316,85.1228611,Raja pull,Waste Burning,2024-08-28 12:39:05.919089+00,IMG_20240828_180635.jpg,person 6,3144677
+576,Patna,25.6239041,85.1242284,Rajapul boring road ,Vehicle Pollution,2024-08-28 12:39:46.798303+00,1000159920.jpg,person 24,3144740
+577,Patna,25.6233616,85.1243067,Rahapool boring road ,Vehicle Pollution,2024-08-28 12:40:57.522908+00,1000159921.jpg,person 24,3144787
+578,Patna,25.622941,85.1234935,Raja pool boring road ,Waste Burning,2024-08-28 12:44:52.408237+00,1000159922.jpg,person 24,3144963
+579,Patna,25.6231676,85.1231838,Raja pull,Waste Burning,2024-08-28 12:45:12.759557+00,IMG_20240828_181335.jpg,person 6,3144902
+580,Patna,25.6234482,85.1217332,Rajapool road,Vehicle Pollution,2024-08-28 12:49:48.6753+00,1000159923.jpg,person 24,3145184
+581,Patna,25.6232817,85.1214444,Raja pull,Waste Burning,2024-08-28 12:51:14.132753+00,IMG_20240828_182018.jpg,person 6,3144902
+582,Patna,25.6234924,85.122022,Rajapool,Waste Burning,2024-08-28 12:52:24.344141+00,1000159924.jpg,person 24,3145315
+583,Patna,25.623486,85.1220457,Raja pull,Construction & Demolition Waste,2024-08-28 12:53:11.455858+00,IMG_20240828_182209.jpg,person 6,3144902
+584,Patna,25.6199432,85.1100583,An path ,Vehicle Pollution,2024-08-29 05:30:10.007645+00,1000160078.jpg,person 24,3189034
+585,Patna,25.618981,85.1097297,An college patna ,Vehicle Pollution,2024-08-29 10:18:34.347171+00,1000160136.jpg,person 24,3201330
+586,Patna,25.6190053,85.1097542,An college patna ,Vehicle Pollution,2024-08-29 10:20:05.832822+00,1000160137.jpg,person 24,3201416
+587,Patna,25.6204511,85.1101035,An path,Construction & Demolition Waste,2024-08-30 04:54:42.678252+00,1000160266.jpg,person 24,3248631
+588,Patna,25.6190552,85.1093778,Boring road ,Vehicle Pollution,2024-08-30 05:03:40.495187+00,1000160267.jpg,person 24,3249127
+589,Patna,25.6193099,85.1102217,An college ,Vehicle Pollution,2024-08-30 09:10:35.742098+00,1000160315.jpg,person 24,3260040
+590,Patna,25.6213387,85.1103351,An path,Vehicle Pollution,2024-09-02 05:21:34.36274+00,1000160977.jpg,person 24,3438930
+591,Patna,25.6199511,85.1100387,An path,Waste Burning,2024-09-02 05:23:37.46168+00,1000160978.jpg,person 24,3439015
+592,Patna,25.6183712,85.1085897,Boring road ,Vehicle Pollution,2024-09-02 05:31:27.169637+00,1000160979.jpg,person 24,3439233
+593,Patna,25.6283891,85.1013895,Rajeev nagar,Waste Burning,2024-09-02 11:58:09.663707+00,IMG_20240902_172558.jpg,person 6,3456707
+594,Patna,25.6194638,85.10525,Mahesh nagar,Waste Burning,2024-09-02 12:06:17.702208+00,IMG_20240902_173504.jpg,person 6,3457079
+595,Patna,25.6178786,85.1046385,Patel nagar,Construction & Demolition Waste,2024-09-02 12:07:49.70168+00,IMG_20240902_173643.jpg,person 6,3457214
+596,Patna,25.614545,85.1040384,Patel nagar,Construction & Demolition Waste,2024-09-02 12:13:29.100265+00,IMG_20240902_174123.jpg,person 6,3457402
+597,Patna,25.6173529,85.1127923,Boaring road,Vehicle Pollution,2024-09-03 12:24:06.702043+00,IMG_20240903_175233.jpg,person 6,3522269
+598,Patna,25.6172558,85.1128693,Boaring road,Vehicle Pollution,2024-09-03 12:26:28.922647+00,IMG_20240903_175439.jpg,person 6,3522395
+599,Patna,25.6217347,85.1103664,An path ,Vehicle Pollution,2024-09-05 05:16:36.455871+00,1000161597.jpg,person 24,3439233
+600,Patna,25.6209497,85.1102115,Boring road ,Construction & Demolition Waste,2024-09-05 05:17:55.719869+00,1000161598.jpg,person 24,3628781
+601,Patna,25.6205669,85.1101424,Boring road ,Vehicle Pollution,2024-09-05 09:51:05.713138+00,1000161786.jpg,person 24,3640059
+602,Patna,25.6255864,85.1034862,Indrapuri,Vehicle Pollution,2024-09-06 12:09:01.775512+00,IMG_20240906_173740.jpg,person 6,3704662
+603,Patna,25.6193559,85.1036803,Mahesh nagar prema maarriage hall,Waste Burning,2024-09-06 12:24:45.507311+00,IMG_20240906_175350.jpg,person 6,3705316
+604,Patna,25.6167617,85.103356,East patel nagar,Waste Burning,2024-09-06 12:28:56.954694+00,IMG_20240906_175727.jpg,person 6,3705472
+605,Patna,25.6167617,85.103356,Patel nagar,Construction & Demolition Waste,2024-09-06 12:29:43.37044+00,IMG_20240906_175907.jpg,person 6,3705510
+606,Patna,25.614884,85.1023829,Highly amount methane released,Waste Burning,2024-09-06 12:31:57.111186+00,IMG_20240906_180035.jpg,person 6,3705555
+607,Patna,25.6138526,85.1046534,Energy park,Vehicle Pollution,2024-09-06 12:35:09.278745+00,IMG_20240906_180421.jpg,person 6,3705716
+608,Patna,25.611714,85.1069237,Energy park,Waste Burning,2024-09-06 12:37:14.112062+00,IMG_20240906_180519.jpg,person 6,3705758
+609,Patna,25.6206026,85.110236,An path ,Vehicle Pollution,2024-09-07 05:39:52.78746+00,1000162766.jpg,person 24,3749044
+610,Patna,25.6186883,85.1093797,An college,Vehicle Pollution,2024-09-07 10:14:19.668724+00,1000162883.jpg,person 24,3761421
+611,Patna,25.6186535,85.1093773,An college ,Waste Burning,2024-09-07 10:14:37.324369+00,1000162882.jpg,person 24,3761421
+612,Patna,25.6217735,85.1041048,Mahesh nagar road no-4,Construction & Demolition Waste,2024-09-07 12:10:08.077236+00,IMG_20240907_173856.jpg,person 6,3766265
+613,Patna,25.6218072,85.1040927,Mahesh nagar road no-4,Brick Kilns,2024-09-07 12:11:17.639729+00,IMG_20240907_174030.jpg,person 6,3766314
+614,Patna,25.6199644,85.1035151,Mahesh nagar road no 4,Construction & Demolition Waste,2024-09-07 12:13:47.208304+00,IMG_20240907_174233.jpg,person 6,3766399
+615,Patna,25.6128268,85.0998992,Urja auditorium,Waste Burning,2024-09-07 12:20:49.871818+00,IMG_20240907_174941.jpg,person 6,3766695
+616,Patna,25.6196027,85.1008769,Patel nagar,Waste Burning,2024-09-07 12:35:28.167442+00,IMG_20240907_180409.jpg,person 6,3767358
+617,Patna,25.6193121,85.105818,Mahesh nagar,Waste Burning,2024-09-08 11:33:45.32306+00,IMG_20240908_170233.jpg,person 6,3821642
+618,Patna,25.618741,85.105703,Open dumping,Waste Burning,2024-09-08 11:34:59.137978+00,IMG_20240908_170354.jpg,person 6,3821717
+619,Patna,25.6176008,85.105356,Mahesh nagar,Construction & Demolition Waste,2024-09-08 11:37:00.664837+00,IMG_20240908_170514.jpg,person 6,3821761
+620,Patna,25.6152586,85.1047834,Patel nagar,Waste Burning,2024-09-08 11:39:18.365828+00,IMG_20240908_170725.jpg,person 6,3821839
+621,Patna,25.6137203,85.1079585,Shivpuri,Construction & Demolition Waste,2024-09-08 11:43:36.237011+00,IMG_20240908_171155.jpg,person 6,3822035
+622,Patna,25.6130715,85.1103553,Highly amount polluted,Waste Burning,2024-09-08 11:46:48.634512+00,IMG_20240908_171509.jpg,person 6,3822115
+623,Patna,25.6124678,85.1098716,Open dumping,Waste Burning,2024-09-08 11:48:18.436188+00,IMG_20240908_171655.jpg,person 6,3822189
+624,Patna,25.611547,85.1072407,Open dumping,Waste Burning,2024-09-08 11:51:29.87225+00,IMG_20240908_172019.jpg,person 6,3822339
+625,Patna,25.621682,85.1103921,Boring road ,Waste Burning,2024-09-09 05:14:32.115355+00,1000163261.jpg,person 24,3863269
+626,Patna,25.6212314,85.1102428,An path ,Vehicle Pollution,2024-09-09 05:15:43.088105+00,1000163264.jpg,person 24,3863309
+627,Patna,25.6195192,85.110196,An college patna ,Vehicle Pollution,2024-09-09 05:19:17.511128+00,1000163265.jpg,person 24,3863428
+628,Patna,25.6179564,85.1084544,An college ,Vehicle Pollution,2024-09-09 05:20:16.162739+00,1000163266.jpg,person 24,3863505
+629,Patna,25.6168348,85.1133488,Boring road ,Vehicle Pollution,2024-09-09 09:53:21.974221+00,1000163304.jpg,person 24,3874225
+630,Patna,25.6149552,85.1145654,Sk puri boring road ,Vehicle Pollution,2024-09-09 10:00:23.770513+00,1000163306.jpg,person 24,3874523
+631,Patna,25.6233015,85.0843308,"The road is often congested with traffic, leading to elevated levels of vehicle emissions, which contribute to poor air quality. Dust from construction and unpaved areas can also exacerbate the problem.",Vehicle Pollution,2024-09-10 04:40:18.327366+00,Screenshot_20240910-100224_Google.jpg,person 8,3921556
+634,Rajendra Nagar,25.5958579,85.1737075,Traffic at noon ,Vehicle Pollution,2024-09-11 07:12:25.552691+00,,person 5,3997572
+635,Patna,25.6286387,85.1011922,Open dumping,Waste Burning,2024-09-11 12:01:50.012041+00,IMG_20240911_173038.jpg,person 6,4010444
+636,Digha,25.6321213,85.1002244,Industrial area,Waste Burning,2024-09-11 12:07:07.567431+00,IMG_20240911_173612.jpg,person 6,4010671
+637,Patna,25.6134294,85.1030316,Methane,Waste Burning,2024-09-11 12:33:02.5709+00,IMG_20240911_180134.jpg,person 6,4011823
+638,Gurugram,28.434858,77.1339553,Ansal plaza GURUGRAM ,Industrial Pollution,2024-09-12 03:05:17.674287+00,IMG_20240912_083343.jpg,person 20,2715874
+639,Digha,25.6309989,85.0992454,Atal path rajeev nagar,Vehicle Pollution,2024-09-12 12:16:09.001116+00,IMG_20240912_174500.jpg,person 6,4072463
+640,Digha,25.6312692,85.0963649,Rajeev nagar road no-9,Vehicle Pollution,2024-09-12 12:25:04.799082+00,IMG_20240912_175412.jpg,person 6,4072847
+641,Patna,25.6306691,85.0988933,Rajeev nagar,Construction & Demolition Waste,2024-09-12 12:27:10.321614+00,IMG_20240912_175608.jpg,person 6,4072940
+642,Patna,25.6222489,85.1103839,An path,Vehicle Pollution,2024-09-12 12:28:50.754118+00,1000163868.jpg,person 24,3874943
+643,Patna,25.6208238,85.1101878,An path ,Construction & Demolition Waste,2024-09-12 12:31:44.286893+00,1000163869.jpg,person 24,4073147
+644,Patna,25.6200646,85.1100567,An path ,Vehicle Pollution,2024-09-12 12:33:09.036201+00,1000163870.jpg,person 24,4073242
+645,Patna,25.6198074,85.1099308,Vivekanand marg ,Vehicle Pollution,2024-09-12 12:33:49.460286+00,1000163871.jpg,person 24,4073242
+646,Patna,25.6195741,85.1099805,An college road ,Vehicle Pollution,2024-09-12 12:34:53.246115+00,1000163872.jpg,person 24,4073286
+647,Patna,25.6184168,85.1115428,Boring road ,Vehicle Pollution,2024-09-12 12:36:06.094939+00,1000163873.jpg,person 24,4073381
+648,Patna,25.6154271,85.1150889,Check Post sk puri,Vehicle Pollution,2024-09-12 12:40:02.987601+00,1000163874.jpg,person 24,4073570
+649,Patna,25.614932,85.1159054,Boring road ,Vehicle Pollution,2024-09-12 12:41:24.872685+00,1000163875.jpg,person 24,4073619
+650,Patna,25.6135485,85.1177645,Boring road choraha ,Vehicle Pollution,2024-09-12 12:43:17.852313+00,1000163876.jpg,person 24,4073713
+651,Patna,25.6129795,85.1189168,Rajapool road boring road choraha ,Vehicle Pollution,2024-09-12 12:44:22.961353+00,1000163877.jpg,person 24,4073759
+652,Patna,25.6127603,85.1186666,Boring road choraha ,Vehicle Pollution,2024-09-12 12:47:27.564014+00,1000163878.jpg,person 24,4073899
+653,Patna,25.6141724,85.1166678,Boring road ,Vehicle Pollution,2024-09-12 12:49:48.793013+00,1000163879.jpg,person 24,4073991
+654,Patna,25.6154063,85.114917,Check Post sk puri ,Vehicle Pollution,2024-09-12 12:52:07.458736+00,1000163880.jpg,person 24,4074129
+655,Patna,25.6197222,85.1099948,An path,Vehicle Pollution,2024-09-12 12:58:19.456159+00,1000163881.jpg,person 24,4074407
+656,Patna,25.6219796,85.1117628,Vivekanand marg ,Vehicle Pollution,2024-09-13 13:04:44.588904+00,1000164029.jpg,person 24,4135030
+657,Patna,25.6225756,85.1115787,Vivekanand marg ,Vehicle Pollution,2024-09-13 13:05:22.509017+00,1000164030.jpg,person 24,4135079
+658,Patna,25.6291225,85.1047763,Patliputra Sai mandir ,Vehicle Pollution,2024-09-13 13:30:54.350309+00,1000164031.jpg,person 24,4136248
+659,Patna,25.6290729,85.1048673,Sai mandir patliputra road ,Vehicle Pollution,2024-09-13 13:31:25.89068+00,1000164032.jpg,person 24,4136297
+660,Patna,25.5638322,85.2136763,C&D waste dump,Construction & Demolition Waste,2024-09-14 06:20:01.3503+00,1000164220.jpg,person 24,4179790
+661,Hachijō,33.24107562,140.0484613,A brick kiln at Deedarganj in Patna. ,Brick Kilns,2024-09-14 07:32:54.061207+00,image_owzOBPt.jpg,person 2,4169310
+662,Patna,25.6189729,85.1108627,An path ,Vehicle Pollution,2024-09-15 12:22:02.156316+00,1000164595.jpg,person 24,4255964
+663,Patna,25.6154073,85.1152299,Check Post sk puri ,Vehicle Pollution,2024-09-15 12:25:37.191566+00,1000164597.jpg,person 24,4256104
+664,Patna,25.6129569,85.1185044,Boring road choraha ,Vehicle Pollution,2024-09-15 12:27:31.376606+00,1000164598.jpg,person 24,4256200
+665,Patna,25.6255552,85.1036541,Atal path,Vehicle Pollution,2024-09-15 12:30:13.364342+00,IMG_20240915_175920.jpg,person 6,4256320
+666,Patna,25.6121523,85.1195677,Highcourt road,Vehicle Pollution,2024-09-15 12:31:25.666764+00,1000164599.jpg,person 24,4256342
+667,Sector 26,28.4672478,77.1073991,Dlf face 2,Construction & Demolition Waste,2024-09-16 03:12:51.841028+00,IMG_20240916_083953.jpg,person 20,2715874
+668,Digha,25.642302,85.0911084,"Flour mills can generate significant amounts of dust, which may contribute to air pollution if not properly managed. Dust collection systems and proper ventilation are essential to mitigate this issue.",Industrial Pollution,2024-09-16 14:00:34.139845+00,20240916_191000.jpg,person 8,4299215
+669,Sector 12,28.4624872,77.0315751,Gururam bus stand,Waste Burning,2024-09-18 10:21:51.8852+00,1000015749.jpg,person 29,4440056
+670,Sector 7,28.4706144,77.0182238,Mostly there was a vehicle pollution because of the traffic ,Vehicle Pollution,2024-09-18 18:52:12.302061+00,,person 11,4431045
+671,Sector 5,28.4810056,77.0160124,Too many vehicles ,Vehicle Pollution,2024-09-19 03:57:17.226177+00,1000007501.jpg,person 14,4487808
+672,Sector 44,28.4508333,77.0728805,Sector 44,Vehicle Pollution,2024-09-19 04:18:44.228382+00,IMG20240919093413.jpg,person 25,4389188
+673,Sector 52,28.444363,77.0764285,Vehicle pollution ,Vehicle Pollution,2024-09-19 04:33:07.748851+00,1000075155.jpg,person 12,4489927
+674,Patna,25.6212955,85.1101984,An path,Vehicle Pollution,2024-09-19 04:55:29.830486+00,1000165582.jpg,person 24,4490968
+675,Patna,25.6206826,85.1101732,An path,Vehicle Pollution,2024-09-19 04:55:55.12419+00,1000165583.jpg,person 24,4490968
+676,Patna,25.6195022,85.1092623,An college ,Vehicle Pollution,2024-09-19 08:59:07.719331+00,1000165634.jpg,person 24,4502174
+677,Patna,25.6194855,85.109232,An college ,Vehicle Pollution,2024-09-19 08:59:24.005667+00,1000165635.jpg,person 24,4502174
+678,Patna,25.6203441,85.1100642,An path,Vehicle Pollution,2024-09-19 10:13:17.301275+00,1000165639.jpg,person 24,4505735
+679,Sector 5,28.4754994,77.0182684,It's very very harmful.. Political.. For humanity,Construction & Demolition Waste,2024-09-19 11:46:49.530159+00,1000015980.jpg,person 29,4440056
+680,Sector 7,28.470638,77.0182427,"Was at home and seen the vehicle which was doing a lot pollution , was not able to take a picture.",Vehicle Pollution,2024-09-19 18:02:03.434191+00,,person 11,4528022
+681,Ashok Vihar Phase III Extension,28.4990044,77.0298932,Ashok vihar phase III ,Vehicle Pollution,2024-09-20 13:23:24.05732+00,IMG20240920182230.jpg,person 25,4580985
+682,Sector 43,28.4540762,77.0752096,Too much pollution emmiting vehicle,Vehicle Pollution,2024-09-21 03:32:36.8592+00,1000007511.jpg,person 14,4623307
+683,Sector 45,28.4441644,77.0738947,Many vehicles,Vehicle Pollution,2024-09-21 03:47:25.471541+00,1000075385.jpg,person 12,4624054
+684,Sector 52,28.4443612,77.076436,Sector 52 main road ,Vehicle Pollution,2024-09-21 04:13:56.801234+00,IMG20240921091157.jpg,person 25,4625226
+685,Sector 43,28.4584445,77.0747686,Huda City centre ,Vehicle Pollution,2024-09-21 07:08:12.577998+00,,person 20,4634422
+686,Patna,25.6218092,85.1141468,Vivekanand marg ,Vehicle Pollution,2024-09-21 10:27:48.585076+00,1000166004.jpg,person 24,4643954
+687,Patna,25.6217843,85.1138645,Vivekanand marg ,Vehicle Pollution,2024-09-21 10:28:06.515684+00,1000166005.jpg,person 24,4643997
+688,Patna,25.6217843,85.1138645,Tilak marg boring road ,Vehicle Pollution,2024-09-21 10:28:30.543666+00,1000166006.jpg,person 24,4643997
+689,Patna,25.6266907,85.102202,Rajeev nagar,Vehicle Pollution,2024-09-21 12:18:50.022452+00,IMG_20240921_174753.jpg,person 6,4649267
+690,Patna,25.6215456,85.1040343,Mahesh nagar,Construction & Demolition Waste,2024-09-21 12:23:48.407354+00,IMG_20240921_175243.jpg,person 6,4649512
+691,Patna,25.6167771,85.1024076,Patel nagar,Waste Burning,2024-09-21 12:28:04.677538+00,IMG_20240921_175712.jpg,person 6,4649715
+692,Patna,25.6104769,85.1030316,Rajbansi,Vehicle Pollution,2024-09-21 12:37:16.843981+00,IMG_20240921_180625.jpg,person 6,4650164
+693,Digha,25.6404236,85.0936246,"The structure typically contains livestock, which produce waste that can lead to nutrient runoff, contaminating local water sources. The accumulation of manure generates methane and ammonia, potent greenhouse gases contributing to air pollution. Dust and pathogens from the animals can also affect air quality, posing health risks to nearby communities.",Construction & Demolition Waste,2024-09-22 05:40:35.654487+00,IMG-20240922-WA0000.jpg,person 8,4695593
+694,Digha,25.6454919,85.0907048,"A  digha supermarket can significantly contribute to air pollution through various factors. The operation of delivery trucks and customer vehicles adds to greenhouse gas emissions and particulate matter. Inside, refrigeration systems and other equipment may release refrigerants that harm the ozone layer. Additionally, the energy used for lighting and heating often comes from fossil fuels, further increasing the carbon footprint. Waste management practices, if not properly managed, can also lead to odors and emissions. Overall, while supermarkets provide essential services, their environmental impact necessitates sustainable practices to mitigate air pollution.",Industrial Pollution,2024-09-22 06:55:01.054433+00,IMG_20240922_121741.jpg,person 8,4698735
+695,Patna,25.5887061,85.1256198,Burning of plastic waste,Waste Burning,2024-09-22 11:48:01.228917+00,1000069430.jpg,person 19,4712497
+696,Sector 5,28.480186,77.0203666,Sector 5,Brick Kilns,2024-09-22 12:24:54.706265+00,IMG20240922174811.jpg,person 25,4692727
+697,Patna,25.6248023,85.1040362,Mahesh nagar,Waste Burning,2024-09-22 12:26:17.213506+00,IMG_20240922_175459.jpg,person 6,4714238
+698,Sector 7,28.470607,77.0182058,Was near patuadi chowk and pm 10 and 2.5 went up on red light because of vehicular pollution and I am trying to submit data with the pic but it's not submitting the data with the photo,Vehicle Pollution,2024-09-22 14:10:44.621657+00,,person 11,4635419
+699,Sector 8,28.4506962,77.0164054,Waste burning ,Waste Burning,2024-09-22 14:36:33.292414+00,IMG_20240922_192203_569.jpg,person 23,4719881
+700,Sector 7,28.4664371,77.0184829,Vehicle pollution,Vehicle Pollution,2024-09-22 16:30:59.241451+00,1000075550.jpg,person 12,4725637
+701,Sector 8,28.4506754,77.0164195,Waste burning,Waste Burning,2024-09-22 18:01:24.208117+00,IMG_20240922_204936_309.jpg,person 23,4719881
+702,Sector 7,28.4626141,77.0105485,Too many vehicles ,Vehicle Pollution,2024-09-23 02:49:00.093731+00,1000075558.jpg,person 12,4752270
+703,Sector 7,28.4626464,77.0105809,"Construction sites can cause poor air quality, which can lead to health problems like coughs, wheezing, and cardiovascular disease",Construction & Demolition Waste,2024-09-23 02:53:10.430655+00,1000075563.jpg,person 12,4752270
+704,Patna,25.6214089,85.114693,Tilak marg ,Vehicle Pollution,2024-09-23 04:50:30.5444+00,1000166415.jpg,person 24,4757398
+705,Patna,25.6214089,85.114693,Vivekanand marg boring road ,Vehicle Pollution,2024-09-23 04:51:41.134497+00,1000166416.jpg,person 24,4757440
+706,Patna,25.6194992,85.1091406,An college boring road ,Vehicle Pollution,2024-09-23 05:03:48.111062+00,1000166419.jpg,person 24,4757983
+707,Patna,25.6193537,85.1101522,An college ,Vehicle Pollution,2024-09-23 10:03:29.514313+00,1000166481.jpg,person 24,4770852
+708,Patna,25.6196137,85.1099653,An college boring road ,Vehicle Pollution,2024-09-23 10:04:21.481195+00,1000166482.jpg,person 24,4770893
+709,Block C-1 & C-2,28.4833888,77.0142607,"Block C-1,C-2",Vehicle Pollution,2024-09-23 11:27:39.145776+00,IMG20240923163057.jpg,person 25,4692727
+710,Patna,25.6260752,85.0999203,Indrapuri 3A,Waste Burning,2024-09-23 12:18:23.833021+00,IMG_20240923_174603.jpg,person 6,4776561
+711,Patna,25.6195793,85.1248015,Vehicular Pollution ,Vehicle Pollution,2024-09-23 12:53:04.415554+00,1000086938.jpg,person 17,4778179
+712,Patna,25.6199066,85.1225075,Construction and demolition waste ,Construction & Demolition Waste,2024-09-23 12:58:05.805109+00,1000086941.jpg,person 17,4778389
+713,Patna,25.6193872,85.122507,Construction and demolition waste ,Construction & Demolition Waste,2024-09-23 13:06:44.555006+00,1000086942.jpg,person 17,4778740
+714,Patna,25.6126505,85.1189381,Vehicular Pollution ,Vehicle Pollution,2024-09-23 13:24:32.422386+00,1000086949.jpg,person 17,4779533
+715,Sector 44,28.4522274,77.0756933,Vehicle pollution,Vehicle Pollution,2024-09-24 03:53:30.910283+00,1000075645.jpg,person 12,4813048
+716,IFFCO Chowk,28.4486491,77.078466,Vehicle pollution ,Vehicle Pollution,2024-09-24 03:58:12.914862+00,1000008451.jpg,person 14,4813326
+717,Digha,25.6357905,85.1055661,Construction and demolition waste: High Levels of PM 10 recorded,Construction & Demolition Waste,2024-09-24 05:06:46.646798+00,1000087022.jpg,person 17,4816677
+718,Digha,25.6353197,85.1063656,Vehicular Pollution ,Vehicle Pollution,2024-09-24 05:10:42.337252+00,1000087023.jpg,person 17,4816862
+719,Patna,25.6383496,85.1092171,Vehicular Pollution ,Vehicle Pollution,2024-09-24 05:17:43.837492+00,1000087024.jpg,person 17,4817260
+720,Patna,25.623694,85.1277209,Vehicular Pollution ,Vehicle Pollution,2024-09-24 05:30:12.717905+00,1000087026.jpg,person 17,4817853
+721,Patna,25.6212713,85.1365455,Construction and demolition waste ,Construction & Demolition Waste,2024-09-24 05:38:19.664382+00,1000087028.jpg,person 17,4818265
+722,Patna,25.6209737,85.1369334,Vehicular Pollution ,Vehicle Pollution,2024-09-24 05:40:06.414675+00,1000087029.jpg,person 17,4818370
+723,Sector 26,28.4823643,77.0951126,Waste burning ,Waste Burning,2024-09-24 08:34:37.637316+00,1000104213.jpg,person 22,4826856
+724,Patna,25.6205556,85.1231382,Vehicular Pollution ,Vehicle Pollution,2024-09-24 11:29:46.149998+00,1000087076.jpg,person 17,4834162
+725,Sector 5,28.4786675,77.0358569,Sector 5,Vehicle Pollution,2024-09-24 11:38:58.034101+00,IMG20240924170758.jpg,person 25,4692727
+726,Sector 5,28.4814399,77.0242083,Sector 5,Vehicle Pollution,2024-09-25 03:42:35.111041+00,IMG20240925091110.jpg,person 25,4692727
+727,Sector 52,28.4456214,77.0782639,Vehicle pollution ,Vehicle Pollution,2024-09-25 03:47:44.851758+00,1000075715.jpg,person 12,4877884
+728,Patna,25.6140859,85.1338366,Very low levels of PM 10 recorded as a result of moderate rainfall in some areas.,Vehicle Pollution,2024-09-25 14:34:46.487067+00,1000087382.jpg,person 17,4906912
+729,Patna,25.6116633,85.1323956,Construction and demolition waste ,Construction & Demolition Waste,2024-09-25 14:40:46.162751+00,1000087384.jpg,person 17,4907180
+730,Patna,25.6109648,85.1320221,Vehicular Pollution ,Vehicle Pollution,2024-09-25 14:45:02.197229+00,1000087387.jpg,person 17,4907409
+731,Patna,25.6097915,85.1377814,Vehicular Pollution ,Vehicle Pollution,2024-09-25 15:26:16.355904+00,1000087388.jpg,person 17,4909276
+732,Patna,25.6122731,85.1387369,Construction and demolition waste ,Construction & Demolition Waste,2024-09-25 15:31:40.277684+00,1000087389.jpg,person 17,4909501
+733,Patna,25.6156653,85.1420652,Vehicular Pollution ,Vehicle Pollution,2024-09-25 15:41:12.796915+00,1000087392.jpg,person 17,4909939
+734,Sector 7,28.4705903,77.0182419,The censor was at the roof and pm 2.5 and pm 10 was more .,Brick Kilns,2024-09-25 16:28:16.008964+00,1000171497.jpg,person 11,4904394
+735,Sector 43,28.4520738,77.0765426,Vehicle pollution ,Vehicle Pollution,2024-09-26 03:26:44.366432+00,1000075778.jpg,person 12,4937551
+736,Sector 45,28.4445576,77.0742544,Vehicle emmiting pollution,Vehicle Pollution,2024-09-26 03:40:36.915859+00,1000007504.jpg,person 14,4938911
+737,Sector 49,28.402337,77.0453949,fire in the trees,Waste Burning,2024-09-26 11:22:51.315898+00,1000209975.jpg,person 7,4888825
+739,Sector 26A,28.4294813,77.1415056,Ansal plaza GURUGRAM ,Vehicle Pollution,2024-09-27 03:09:16.479542+00,IMG_20240927_083649.jpg,person 20,5000648
+740,Sector 26,28.4680256,77.1095031,Too much waste garbage,Construction & Demolition Waste,2024-09-27 03:21:09.635784+00,IMG_20240927_084924.jpg,person 20,5000938
+741,Patna,25.6216172,85.1103302,An path,Vehicle Pollution,2024-09-27 05:10:02.263102+00,1000167263.jpg,person 24,5006451
+742,Patna,25.6196758,85.1100166,Vivekanand marg ,Vehicle Pollution,2024-09-27 05:13:32.241445+00,1000167264.jpg,person 24,5006647
+743,Patna,25.619089,85.110181,An college boring road ,Vehicle Pollution,2024-09-27 05:15:46.592123+00,1000167265.jpg,person 24,5006743
+744,Sector 5,28.4852246,77.0201455,Sector 5,Vehicle Pollution,2024-09-27 06:10:45.970242+00,IMG20240927113926.jpg,person 25,5009461
+745,Sector 7,28.4627323,77.0107699,Vehicle pollution,Vehicle Pollution,2024-09-27 09:41:56.86073+00,1000007769.jpg,person 14,5019636
+746,Patna,25.6191794,85.109512,An college boring road ,Vehicle Pollution,2024-09-27 09:57:36.233991+00,1000167321.jpg,person 24,5019869
+747,Sector 5,28.4791154,77.0346773,Sector 5,Vehicle Pollution,2024-09-28 03:57:59.971082+00,IMG20240928092457.jpg,person 25,5068152
+748,IFFCO Chowk,28.4701707,77.072096,Vehicle and roadside waste pollution ,Vehicle Pollution,2024-09-28 07:44:08.93248+00,1000009096.jpg,person 14,5078976
+749,IFFCO Chowk,28.4770309,77.0688583,"the emission of harmful substances such as carbon monoxide, hydrocarbons, and particulate matter from motor vehicles, leading to air pollution and adverse health effects on humans",Vehicle Pollution,2024-09-28 07:48:53.421457+00,1000075996.jpg,person 12,5079149
+750,Gurugram,28.3512017,77.0602378,Air pollution ,Waste Burning,2024-09-28 08:46:28.349615+00,IMG_20240928_141103.jpg,person 1,5081862
+751,Patna,25.6275172,85.1007785,Indrapuri,Waste Burning,2024-09-29 12:18:37.811231+00,IMG_20240929_174623.jpg,person 6,5155383
+752,Block C-1 & C-2,28.48507722,77.01578021,Block C-1 C-2 ,Vehicle Pollution,2024-09-29 12:18:49.648933+00,IMG20240929174540.jpg,person 25,5078775
+753,Patna,25.6278785,85.1005622,Rajeev nagar,Waste Burning,2024-09-29 12:21:23.533903+00,IMG_20240929_175030.jpg,person 6,5155581
+754,Sector 45,28.4380327,77.0665932,Pollution ,Industrial Pollution,2024-09-30 03:06:04.666463+00,1000049200.jpg,person 30,5166252
+755,Sector 16,28.4682174,77.0434581,Muddy road,Construction & Demolition Waste,2024-09-30 03:23:23.765492+00,1000009337.jpg,person 14,5196443
+756,Sector 13,28.4769927,77.031521,Sector 13,Vehicle Pollution,2024-09-30 03:42:01.94471+00,IMG20240930091037.jpg,person 25,5197290
+757,Patna,25.6206193,85.1101722,An path,Vehicle Pollution,2024-09-30 04:51:14.079771+00,1000167831.jpg,person 24,5200558
+758,Patna,25.6201469,85.1100446,An path boring road ,Vehicle Pollution,2024-09-30 04:51:31.364244+00,1000167832.jpg,person 24,5200558
+759,Patna,25.6200098,85.1100495,An path boring road ,Vehicle Pollution,2024-09-30 04:51:52.904127+00,1000167833.jpg,person 24,5200558
+760,Patna,25.6196854,85.1100202,An path boring road ,Waste Burning,2024-09-30 04:52:17.899975+00,1000167834.jpg,person 24,5200607
+761,Patna,25.6191096,85.1101158,An college boring road ,Vehicle Pollution,2024-09-30 09:58:23.873965+00,1000167887.jpg,person 24,5210603
+762,Patna,25.618154,85.1217094,Vehicular Pollution ,Vehicle Pollution,2024-09-30 11:38:33.053882+00,1000088210.jpg,person 17,5214338
+763,Gurugram,28.3510482,77.0605838,Firecracker  air pollution and noice pollution ,Waste Burning,2024-09-30 12:06:28.696131+00,IMG_20240930_172942.jpg,person 1,5160939
+764,Sector 8,28.4505315,77.0165392,Waste burning,Waste Burning,2024-09-30 12:24:06.024271+00,IMG_20240930_175228_386.jpg,person 15,5211966
+765,Sector 7,28.4705672,77.0183311,The censor was at the shop and there was a lot of dust around the shop,Construction & Demolition Waste,2024-09-30 14:20:07.6669+00,1000173645.jpg,person 11,5219443
+766,Patna,25.58538438,85.17831518,Air pollution condition near nh30 and under construction metro,Vehicle Pollution,2024-10-01 07:31:57.581813+00,,person 27,5250687
+767,Block C-1 & C-2,28.4840156,77.0148839,Block C-1 C-2 ,Vehicle Pollution,2024-10-01 10:32:53.556287+00,IMG20241001160215.jpg,person 25,5200268
+768,Sector 6,28.475185,77.01968,Pollution.. Very harmful sec 5 ... Dayanad colony,Waste Burning,2024-10-01 12:53:40.457905+00,,person 29,4554428
+769,Sector 6,28.475185,77.01968,Pollution.. Very harmful sec 5 ... Dayanad colony,Waste Burning,2024-10-01 12:55:59.988867+00,1000018500.jpg,person 29,4554428
+770,Sector 7,28.4705616,77.0182686,I was at home today so didn't capture much . But even near the plants pm 2.5 and 10 is increased.,Construction & Demolition Waste,2024-10-01 13:27:04.123971+00,1000174271.jpg,person 11,5275827
+771,Sector 3A,28.4831594,77.0134442,Sector 3A,Vehicle Pollution,2024-10-02 11:30:16.058893+00,IMG20241002165007.jpg,person 25,5330711
+772,Sector 3A,28.4831594,77.0134442,Sector 3A ,Vehicle Pollution,2024-10-02 11:31:57.106988+00,IMG20241002165007_nFSwYnW.jpg,person 25,5330805
+773,Patna,25.6134279,85.1333958,Vehicular Pollution ,Vehicle Pollution,2024-10-02 14:42:23.404451+00,1000088506.jpg,person 17,5339436
+774,Patna,25.6107459,85.1329665,Vehicular Pollution ,Vehicle Pollution,2024-10-02 14:51:46.62802+00,1000088507.jpg,person 17,5339844
+775,Sector 7,28.47069607,77.0181497,Sorry to submit the data of 2nd October very late the censor captures alot of dust today .,Construction & Demolition Waste,2024-10-02 18:49:34.399799+00,1000174673.jpg,person 11,5310624
+776,Sector 7,28.4705348,77.0183164,Mostly all the varients went up during the traffic . ,Vehicle Pollution,2024-10-03 13:02:01.161227+00,1000175298.jpg,person 11,5391823
+777,Patna,25.6216916,85.1103371,An path,Waste Burning,2024-10-04 05:07:15.912522+00,1000169332.jpg,person 24,5428656
+778,Patna,25.6215361,85.1102799,An path,Vehicle Pollution,2024-10-04 05:07:53.633076+00,1000169331.jpg,person 24,5428656
+779,Patna,25.6213149,85.1102511,An path ,Vehicle Pollution,2024-10-04 05:08:32.568386+00,1000169330.jpg,person 24,5428696
+780,Digha,25.6346164,85.0855138,"The area experiences heavy traffic congestion due to a mix of personal vehicles, commercial trucks, and auto-rickshaws. This results in high emissions of carbon monoxide, nitrogen oxides, and particulate matter, contributing to poor air quality.",Vehicle Pollution,2024-10-04 10:07:59.247182+00,IMG_20241004_153336.jpg,person 8,4699795
+781,Digha,25.6343196,85.0864076,At digha aashiyana more,Vehicle Pollution,2024-10-04 10:15:50.650574+00,17280368987521085351187154791972.jpg,person 8,4699795
+782,Digha,25.6501433,85.0885288,"clogged with waste, debris, and untreated sewage. This leads to stagnant water, which can breed mosquitoes and other pests, creating health hazards and  air pollution ",Industrial Pollution,2024-10-04 10:27:31.671798+00,17280373490193544615785522494897.jpg,person 8,4699795
+783,Patna,25.6137941,85.1193811,Boring road choraha ,Vehicle Pollution,2024-10-04 10:49:45.802302+00,1000169457.jpg,person 24,5442633
+784,Patna,25.6138656,85.119289,Boring road choraha ,Vehicle Pollution,2024-10-04 10:51:56.508451+00,1000169458.jpg,person 24,5442633
+785,Patna,25.6158515,85.1145789,Checkpost boring road ,Vehicle Pollution,2024-10-04 11:00:34.575648+00,1000169461.jpg,person 24,5443066
+786,Sector 3A,28.4831594,77.0134442,Sector 3A ,Vehicle Pollution,2024-10-04 12:04:24.759826+00,IMG20241004173149.jpg,person 25,5331315
+787,Rajendra Nagar,25.5962105,85.1736956,Traffic at evening ,Vehicle Pollution,2024-10-04 14:02:18.616889+00,,person 5,5451261
+788,Sector 7,28.4706276,77.0182032,When I was passing through this area I noticed that pm10 went up ,Brick Kilns,2024-10-04 16:39:59.524056+00,1000175911.jpg,person 11,5448040
+789,Digha,25.6507233,85.0926514,"Waste pollution, home waste dumping area ",Waste Burning,2024-10-06 03:29:36.122221+00,IMG_20241006_085659.jpg,person 8,4699795
+790,Digha,25.6464809,85.0899386," Traffic congestion leads to high levels of vehicular emissions, contributing to poor air quality. Dust from construction activities and unpaved surfaces adds to particulate matter in the air. Noise pollution is also prevalent due to the constant flow of vehicles, impacting the overall environment and public health.",Vehicle Pollution,2024-10-06 03:46:53.276485+00,IMG_20241006_091055.jpg,person 8,4699795
+791,Digha,25.642246,85.0910954,"The incomplete combustion of wood releases harmful smoke and particulate matter, which can lead to respiratory problems and other health issues for users, particularly women and children.",Waste Burning,2024-10-06 04:01:23.749028+00,IMG_20241006_092851.jpg,person 8,4699795
+792,Gurugram,28.3510137,77.060224,Waste burn ,Waste Burning,2024-10-06 13:43:25.054797+00,,person 1,5566842
+793,Gurugram,28.3512069,77.0602053,Waste burn ,Waste Burning,2024-10-06 13:48:30.086208+00,IMG_20241005_195808.jpg,person 1,5566842
+794,Patna,25.6108757,85.1321393,Vehicular Pollution ,Vehicle Pollution,2024-10-06 14:42:17.019774+00,1000089264.jpg,person 17,5569232
+795,Digha,25.6505384,85.087136,"Emissions from Equipment: Heavy machinery like excavators, bulldozers, and trucks often run on diesel, producing nitrogen oxides (NOx), carbon monoxide (CO), and particulate matter. These emissions can worsen urban air quality and contribute to Emissions from Equipment: Heavy machinery like excavators, bulldozers, and trucks often run on diesel, producing nitrogen oxides (NOx), carbon monoxide (CO), and particulate matter. These emissions can worsen urban air quality and contribute to respiratory issues. issues.",Construction & Demolition Waste,2024-10-07 11:47:06.851551+00,17283014258769054670798309835328.jpg,person 8,4699795
+796,Block C-1 & C-2,28.4824772,77.0138041,Block C-1 C-2 ,Vehicle Pollution,2024-10-08 13:27:14.740315+00,IMG20241008185640.jpg,person 25,5331315
+797,Sector 7,28.4658505,77.0136183,Vehicle.polltuion,Vehicle Pollution,2024-10-09 03:38:32.846858+00,1000010711.jpg,person 14,5708031
+798,Gurugram,28.3635377,77.0598642,Construction incomplete near maruti kunj mode.   It's increase dust,Construction & Demolition Waste,2024-10-09 03:39:15.596782+00,IMG_20241009_090624.jpg,person 1,5708053
+799,Sector 45,28.4438057,77.0738947,Motorbike smoke,Vehicle Pollution,2024-10-09 05:12:35.706675+00,IMG_20241009_100636.jpg,person 28,5670705
+800,Sector 52,28.4455536,77.0776613,Waste burning ,Waste Burning,2024-10-09 06:49:57.980268+00,1000109461.jpg,person 22,5716000
+801,Block C-1 & C-2,28.4841463,77.014912,Block C-1 C-2 ,Vehicle Pollution,2024-10-09 16:22:36.05181+00,IMG20241009150851.jpg,person 25,5331315
+802,Gurugram,28.3563124,77.0701917,Burning of waste ,Waste Burning,2024-10-09 17:10:32.27894+00,1000063950.jpg,person 9,5688746
+803,Gurugram,28.3562732,77.0697763,Burning of waste ,Waste Burning,2024-10-09 17:12:22.870789+00,1000063952.jpg,person 9,5740844
+804,Gurugram,28.3562747,77.0697752,Burning of waste ,Waste Burning,2024-10-09 17:14:41.143871+00,20241006_200706.jpg,person 9,5740844
+805,Sector 45,28.4414234,77.0714079,Po,Waste Burning,2024-10-10 03:16:59.997012+00,1000050093.jpg,person 30,5762731
+806,Digha,25.6436469,85.0907048,From  digha chauhatta to mica colony,Construction & Demolition Waste,2024-10-10 03:19:47.841229+00,17285301681853396672885176569711.jpg,person 8,5622242
+807,Digha,25.6455028,85.0910293,Adarsh hotel ,Vehicle Pollution,2024-10-10 11:11:27.732443+00,IMG_20241010_163854.jpg,person 8,5622242
+808,Digha,25.6461398,85.0898788,"At akhara road, multiple grocery shops and masala grinders shop",Construction & Demolition Waste,2024-10-10 12:43:50.8494+00,IMG_20241010_163854_pQkiRuN.jpg,person 8,5787269
+809,Sector 7,28.4627454,77.0107673,Too many Vehicle ,Vehicle Pollution,2024-10-11 07:07:22.127933+00,1000010709.jpg,person 14,5831534
+810,Block C-1 & C-2,28.4836571,77.0148839,Block C-1 C-2 ,Vehicle Pollution,2024-10-11 08:59:46.258448+00,IMG20241011095152.jpg,person 25,5331315
+811,Sector 7,28.4706324,77.0183214,Was at some function today and because of lot of lightning there were lot of insects and there was a lot of public as well and pm 10 was the maximum ,Construction & Demolition Waste,2024-10-11 18:15:36.305787+00,1000178750.jpg,person 11,5859627
+812,Shivaji Nagar,28.4552535,77.0289195,Burning garbage ,Brick Kilns,2024-10-12 17:37:17.100573+00,1000077697.jpg,person 12,5918512
+813,Shivaji Nagar,28.4576246,77.0274801,Vehicles pollution ,Vehicle Pollution,2024-10-12 17:38:32.110825+00,1000077698.jpg,person 12,5918634
+814,Sector 7,28.4624799,77.0109248,Construction ,Construction & Demolition Waste,2024-10-12 17:49:52.091992+00,1000077699.jpg,person 12,5919038
+815,Sector 7,28.4705836,77.0183161,Was at ravan dehan today and come through the burning of the paper as you can see in the image . ,Waste Burning,2024-10-12 19:08:15.923872+00,1000179278.jpg,person 11,5911629
+816,Gurugram,28.356273,77.0697685,Burning of rawan,Waste Burning,2024-10-13 03:26:28.808653+00,1000065486.jpg,person 9,5942383
+817,Digha,25.6422986,85.0910011,Incense stick ,Waste Burning,2024-10-13 05:43:33.56806+00,17287980120387315056675781222193.jpg,person 8,5947874
+818,Block C-1 & C-2,28.4840809,77.0148885,Block C-1 C-2 ,Waste Burning,2024-10-13 10:11:29.702943+00,IMG20241013151243.jpg,person 25,5331315
+819,Sector 12,28.4634644,77.0242479,The censor was in the Subhash nagar today for the first time and according to me all the things were normal .,Construction & Demolition Waste,2024-10-13 11:07:07.006276+00,1000270399.jpg,person 11,5960748
+820,Rajendra Nagar,25.5921923,85.1718426,Pollution at sharp 9 am morning ,Vehicle Pollution,2024-10-14 03:36:06.836536+00,,person 5,6002151
+821,Patna,25.6198147,85.1299247,Construction and demolition ,Construction & Demolition Waste,2024-10-14 08:31:47.366199+00,1000091355.jpg,person 17,6015761
+822,Block C-1 & C-2,28.4836223,77.0145239,Block C-1 C-2 ,Brick Kilns,2024-10-14 08:40:24.257472+00,IMG20241014140841.jpg,person 25,5331315
+823,Sector 7,28.462744,77.010767,Vehicle pollution ,Vehicle Pollution,2024-10-14 09:21:06.620663+00,1000010710.jpg,person 14,6018076
+824,Digha,25.6458175,85.0894071,Digha main market ,Vehicle Pollution,2024-10-14 14:11:13.837779+00,17289149871543069560998032471244.jpg,person 8,6030835
+825,Shivaji Nagar,28.4579832,77.0274801,Vehicle pollution,Vehicle Pollution,2024-10-15 03:52:37.355331+00,1000077822.jpg,person 12,6063997
+826,Sector 31,28.4474181,77.0465977,Vehicle pollution,Vehicle Pollution,2024-10-15 04:05:09.436631+00,1000011786.jpg,person 14,6021296
+827,Patna,25.6195723,85.1100082,An path,Vehicle Pollution,2024-10-15 12:44:22.259929+00,1000173206.jpg,person 24,6088888
+828,Patna,25.6195723,85.1100082,Boring road ,Vehicle Pollution,2024-10-15 12:44:59.735923+00,1000173208.jpg,person 24,6088888
+829,Patna,25.6188871,85.1178493,Nala opposite to panchmukhi Mandir ,Vehicle Pollution,2024-10-15 12:52:29.260042+00,1000173216.jpg,person 24,6089083
+830,Patna,25.6183157,85.1209609,Panchmukhi Mandir boring road ,Vehicle Pollution,2024-10-15 12:53:53.721933+00,1000173217.jpg,person 24,6089321
+831,Patna,25.6187141,85.1120442,Krishna apartment ,Vehicle Pollution,2024-10-15 13:48:54.356306+00,1000173219.jpg,person 24,6092120
+832,Patna,25.58537603,85.17746277,High PM concentration ,Vehicle Pollution,2024-10-15 15:37:09.392209+00,,person 27,6097656
+833,Sector 7,28.4705613,77.0182246,Was not able to take photo before but pm 10 went up a bit near this area .,Vehicle Pollution,2024-10-15 18:17:05.998381+00,1000180200.jpg,person 11,6079072
+834,Sector 43,28.4482694,77.0792906,Vehicle pollution ,Vehicle Pollution,2024-10-16 03:42:21.38155+00,1000077947.jpg,person 12,6135336
+835,Patna,25.620187,85.110051,An path,Vehicle Pollution,2024-10-16 05:17:31.784496+00,1000173303.jpg,person 24,6140777
+836,Patna,25.618623,85.1092889,An college boring road ,Vehicle Pollution,2024-10-16 05:27:47.345228+00,1000173309.jpg,person 24,6141358
+837,Patna,25.6184513,85.1093487,An college boring road ,Vehicle Pollution,2024-10-16 06:10:10.301567+00,1000173315.jpg,person 24,6143802
+838,Sector 29,28.4590877,77.0724835,Traffic jam,Vehicle Pollution,2024-10-16 06:29:42.027179+00,1000011786_qKRD6v1.jpg,person 14,6144971
+839,Digha,25.645937,85.0929758,Fish market,Vehicle Pollution,2024-10-16 10:14:12.050155+00,17290735971822811199910578601124.jpg,person 8,6157845
+840,Digha,25.6460103,85.0923417,Cattle house,Construction & Demolition Waste,2024-10-16 10:18:01.503082+00,17290738157513609174280537801709.jpg,person 8,6158083
+841,Patna,25.6278283,85.1004872,Indrapuri,Waste Burning,2024-10-16 11:55:17.584733+00,IMG_20241016_172415.jpg,person 6,6163672
+842,Patna,25.6285231,85.1008075,Indrapuri,Waste Burning,2024-10-16 11:56:48.695031+00,IMG_20241016_172531.jpg,person 6,6163790
+843,Patna,25.6240851,85.1046106,Mahesh nagar,Vehicle Pollution,2024-10-16 12:01:19.012611+00,IMG_20241016_172955.jpg,person 6,6164029
+844,Patna,25.6185259,85.1049474,Mahesh nagar,Construction & Demolition Waste,2024-10-16 12:07:20.356816+00,IMG_20241016_173552.jpg,person 6,6164264
+845,Patna,25.6145797,85.1040116,Mahesh nagar,Waste Burning,2024-10-16 12:19:47.257947+00,IMG_20241016_174018.jpg,person 6,6164671
+846,Patna,25.6165191,85.132163,Development of Mandiri Nala project . ,Construction & Demolition Waste,2024-10-16 14:35:35.474908+00,1000091686.jpg,person 17,6172653
+847,Patna,25.6078309,85.1377859,Construction and demolition waste: Patna Metro ,Construction & Demolition Waste,2024-10-16 15:10:21.521178+00,1000091698.jpg,person 17,6174553
+848,Patna,25.6060053,85.1375093,Vehicular Pollution,Vehicle Pollution,2024-10-16 15:13:36.161959+00,1000091699.jpg,person 17,6174704
+849,Patna,25.6041497,85.13704,Vehicular Pollution ,Vehicle Pollution,2024-10-16 15:39:05.341264+00,1000091708.jpg,person 17,6176051
+850,Patna,25.6042314,85.136687,Construction and demolition waste ,Construction & Demolition Waste,2024-10-16 15:40:58.397965+00,1000091712.jpg,person 17,6176160
+851,Patna,25.6202435,85.1100457,An path,Vehicle Pollution,2024-10-17 05:32:03.473096+00,1000173504.jpg,person 24,6217512
+852,Patna,25.6199293,85.1100479,An path ,Waste Burning,2024-10-17 05:32:37.178122+00,1000173505.jpg,person 24,6217556
+853,Rajendra Nagar,25.5956681,85.1733924,Traffic pollution at noon ,Vehicle Pollution,2024-10-17 06:46:35.869836+00,,person 5,6221311
+854,Patna,25.6207819,85.1101733,An path,Vehicle Pollution,2024-10-17 09:32:44.441914+00,1000173629.jpg,person 24,6230115
+855,Sector 7,28.4627499,77.0107657,Muddy waste,Construction & Demolition Waste,2024-10-17 10:11:07.214349+00,1000009091.jpg,person 14,6232128
+856,Digha,25.6480142,85.0899949,Digha post office ,Construction & Demolition Waste,2024-10-17 10:20:21.145125+00,17291603472257840277789913294540.jpg,person 8,6219428
+857,Patna,25.6282804,85.1016628,Rajeev nagar,Vehicle Pollution,2024-10-17 11:52:58.250795+00,IMG_20241017_172123.jpg,person 6,6238024
+858,Patna,25.6194871,85.1059647,महेश नगर,Waste Burning,2024-10-17 11:59:59.418466+00,IMG_20241017_172832.jpg,person 6,6238516
+859,Patna,25.6174685,85.104794,Shivpuri,Waste Burning,2024-10-17 12:04:22.695956+00,IMG_20241017_173006.jpg,person 6,6238758
+860,Patna,25.6167837,85.1048089,Shivpuri,Waste Burning,2024-10-17 12:05:33.685651+00,IMG_20241017_173006_WRHNXwe.jpg,person 6,6238830
+861,Patna,25.6162691,85.1044055,Shivpuri,Waste Burning,2024-10-17 12:06:19.1337+00,IMG_20241017_173428.jpg,person 6,6238885
+862,Sector 7,28.4705958,77.01828,The censor was kept in bhim nagar sector 6 in not a wide road and most of the roads over there are not so wide and the humidity on those areas is quite high and in front of the house where it was kept there was a house which was being constructed and because of it pm 10 was also up,Construction & Demolition Waste,2024-10-17 12:50:03.411826+00,1000181053.jpg,person 11,6241381
+863,Block C-1 & C-2,28.4835704,77.0144229,Block C-1 C-2 ,Vehicle Pollution,2024-10-17 13:32:19.641753+00,IMG20241017185506.jpg,person 25,5331315
+864,Digha,25.6465833,85.0901767,Sabzi market ,Vehicle Pollution,2024-10-17 13:55:08.891503+00,17291732466644916872334913317422.jpg,person 8,6245151
+865,Sector 7,28.4648055,77.0086023,Too many Vehicles,Vehicle Pollution,2024-10-18 02:42:43.810739+00,1000011933.jpg,person 14,6285586
+866,Sector 16,28.4639453,77.0376165,Construction waste,Construction & Demolition Waste,2024-10-18 03:12:50.522212+00,1000012057.jpg,person 14,6287280
+867,Sector 16,28.4677229,77.0429536,Construction waste ,Construction & Demolition Waste,2024-10-18 03:15:55.370889+00,1000078103.jpg,person 12,6287403
+868,Sector 43,28.4475867,77.0796503,Too many Vehicles,Vehicle Pollution,2024-10-18 03:45:04.85584+00,1000078104.jpg,person 12,6289187
+869,Patna,25.6204629,85.1101514,An path boring road ,Vehicle Pollution,2024-10-18 05:23:11.939378+00,1000173750.jpg,person 24,6294951
+870,IFFCO Chowk,28.4770071,77.0715494,Iffco chowk ,Construction & Demolition Waste,2024-10-18 09:25:53.196499+00,IMG_20241018_145409.jpg,person 20,6309542
+871,Sector 7,28.4706259,77.0183041,Near the area of sector 4 there was a lot of dust in the air and also the reason of pm 10 rising and near the red light of the bus stop of kanhai pm 2.5 and humidity went up because of the bus and car heats .,Construction & Demolition Waste,2024-10-18 18:21:47.20439+00,1000181759.jpg,person 11,6318359
+872,Sector 8,28.4632101,77.0184829,Vehicle Pollution is the introduction of harmful materials into the environment.,Vehicle Pollution,2024-10-19 02:50:56.481998+00,1000078213.jpg,person 12,6358141
+873,Sector 7,28.4650346,77.0151637,Construction waste ,Construction & Demolition Waste,2024-10-19 02:53:57.821531+00,1000078218.jpg,person 12,6358354
+874,Patna,25.6217904,85.1103564,An path boring road,Vehicle Pollution,2024-10-19 04:49:33.937837+00,1000173981.jpg,person 24,6363763
+875,Patna,25.6215579,85.1102849,An path boring road ,Vehicle Pollution,2024-10-19 04:50:57.158412+00,1000173982.jpg,person 24,6363763
+876,Patna,25.6088358,85.1438155,Too much pollution,Vehicle Pollution,2024-10-19 07:17:12.599088+00,1000158032.jpg,person 3,6371831
+877,Patna,25.6191706,85.1103405,An college ,Vehicle Pollution,2024-10-19 09:42:00.95473+00,1000174000.jpg,person 24,6370706
+878,Patna,25.6196475,85.1101341,An college ,Vehicle Pollution,2024-10-19 09:42:17.919472+00,1000174000_EpN6YvC.jpg,person 24,6370706
+879,Sector 8,28.4505038,77.016441,Waste burning,Waste Burning,2024-10-19 10:44:04.894167+00,IMG_20241019_160758_626.jpg,person 23,6383109
+880,Patna,25.6240886,85.1046065,Mahesh nagae,Vehicle Pollution,2024-10-19 11:54:43.051698+00,IMG_20241019_172310.jpg,person 6,6387051
+881,Patna,25.6205353,85.103669,Mahesh nagar,Construction & Demolition Waste,2024-10-19 12:00:01.677712+00,IMG_20241019_172923.jpg,person 6,6387432
+882,Patna,25.6191234,85.1044557,Mahesh nagar,Waste Burning,2024-10-19 12:03:10.157658+00,IMG_20241019_173208.jpg,person 6,6387594
+883,Patna,25.619378,85.1048796,Mahesh nagar,Waste Burning,2024-10-19 12:03:46.829843+00,IMG_20241019_173227.jpg,person 6,6387646
+884,Digha,25.6489426,85.083567,Samshan ghat,Waste Burning,2024-10-19 12:13:00.340151+00,17293399309334862534269455347520.jpg,person 8,6388117
+885,Digha,25.650017,85.0825936,Digha nahar,Vehicle Pollution,2024-10-19 12:20:31.078827+00,17293403777819205970329097784275.jpg,person 8,6388404
+886,Priyadarshi Nagar,25.6483583,85.0808663,"Nahar, crossing",Vehicle Pollution,2024-10-19 12:24:19.154741+00,17293405582862681608931523405674.jpg,person 8,6388690
+887,Digha,25.6467775,85.0874096,"Near petrol pump, digha",Vehicle Pollution,2024-10-19 12:40:10.179199+00,17293415514633400619617526213419.jpg,person 8,6389668
+888,Sector 7,28.4706684,77.0182847,Near the Ram nagar there was the construction waste and than I went to the market where humidity increased because of the people.,Construction & Demolition Waste,2024-10-19 18:09:00.518932+00,1000182243.jpg,person 11,6400165
+889,Patna,25.6308324,85.0993064,Rajeev nagar,Vehicle Pollution,2024-10-21 11:09:03.163716+00,IMG_20241021_163805.jpg,person 6,6519571
+890,Digha,25.633617,85.0976514,Rajeev nagar,Construction & Demolition Waste,2024-10-21 11:11:32.302624+00,IMG_20241021_164029.jpg,person 6,6519667
+891,Digha,25.6353908,85.0986002,Kurji,Vehicle Pollution,2024-10-21 11:13:14.343217+00,IMG_20241021_164221.jpg,person 6,6519767
+892,Digha,25.6444836,85.0990597,Kurji,Vehicle Pollution,2024-10-21 11:22:22.393643+00,IMG_20241021_165050.jpg,person 6,6520192
+893,Digha,25.6406316,85.0929323,Rajeev nagar,Vehicle Pollution,2024-10-21 11:30:44.78273+00,IMG_20241021_165932.jpg,person 6,6520538
+894,Patna,25.6213008,85.1102938,An path boring road ,Vehicle Pollution,2024-10-21 12:16:03.064349+00,1000175024.jpg,person 24,6522864
+895,Patna,25.6156097,85.114983,Boring road ,Vehicle Pollution,2024-10-21 12:18:32.826297+00,1000175028.jpg,person 24,6523021
+896,Patna,25.6145444,85.1162642,Check Post boring road ,Vehicle Pollution,2024-10-21 12:18:51.945732+00,1000175029.jpg,person 24,6523021
+897,Patna,25.6115253,85.1207755,Boring road choraha ,Vehicle Pollution,2024-10-21 12:22:46.575302+00,1000175031.jpg,person 24,6523221
+898,Sector 7,28.4706106,77.0181873,Om the old railway road get to see the pollution alot .,Vehicle Pollution,2024-10-21 16:07:49.477143+00,,person 11,6526433
+899,Sector 7,28.4706106,77.0181873,Sorry for submitting the data again that time app was not allowing to submit data with picture,Vehicle Pollution,2024-10-21 16:08:58.212107+00,1000183184.jpg,person 11,6526433
+900,Sector 7,28.4625494,77.0116446,Garbage burning ,Waste Burning,2024-10-21 16:19:27.560157+00,1000078526.jpg,person 12,6358500
+901,Patna,25.6194765,85.1090108,An path boring road ,Vehicle Pollution,2024-10-22 05:04:48.439146+00,1000175251.jpg,person 24,6565911
+902,Patna,25.6194765,85.1090108,An college road boring road ,Vehicle Pollution,2024-10-22 05:05:11.292432+00,1000175252.jpg,person 24,6565911
+903,Sector 7,28.4627163,77.0108133,Muddy area,Construction & Demolition Waste,2024-10-22 08:34:28.28276+00,1000012056.jpg,person 14,6576186
+904,Rajendra Nagar,25.5964008,85.1733061,Smoke area ,Industrial Pollution,2024-10-22 15:43:12.06896+00,1000151340.jpg,person 4,6598298
+905,Sector 7,28.4706127,77.018157,Was not able to capture today but as this time I am seeing a lot of people are burning fire crackers so able to see the pollution these days and pm 10 is also increasing alot these days ,Waste Burning,2024-10-22 17:10:07.123191+00,1000183818.jpg,person 11,6602488
+906,Block C-1 & C-2,28.4866053,77.0120045,Vehicle pollution ,Vehicle Pollution,2024-10-23 03:08:18.155477+00,1000078645.jpg,person 12,6631649
+907,Sector 4,28.480465,77.0143251,Construction waste,Construction & Demolition Waste,2024-10-23 03:15:28.653775+00,1000012908.jpg,person 14,6632014
+908,Sector 12,28.4658368,77.0284941,Construction waste ,Construction & Demolition Waste,2024-10-23 03:28:44.8314+00,1000078652.jpg,person 12,6632745
+909,Sector 45,28.4378629,77.0679455,Garbage ,Construction & Demolition Waste,2024-10-23 03:36:53.749051+00,1000051324.jpg,person 30,6633081
+910,Rajendra Nagar,25.5936267,85.1736956,Vehicular pollution at morning 9:30 am,Vehicle Pollution,2024-10-23 04:05:20.155798+00,,person 5,6634778
+911,Patna,25.6217023,85.1103136,An path boring road ,Vehicle Pollution,2024-10-23 04:44:51.089991+00,1000175503.jpg,person 24,6636896
+912,Patna,25.6215709,85.110306,An path,Waste Burning,2024-10-23 04:45:10.529736+00,1000175504.jpg,person 24,6636896
+913,Patna,25.6194657,85.1092583,An college boring road ,Vehicle Pollution,2024-10-23 04:51:43.29559+00,1000175505.jpg,person 24,6637267
+914,Sector 39,28.4438534,77.0558462,Waste ,Construction & Demolition Waste,2024-10-23 07:17:04.077568+00,1000051333.jpg,person 30,6644767
+915,Sector 39,28.4436725,77.0550933,Pollythen waste and house waste,Construction & Demolition Waste,2024-10-23 07:19:18.504425+00,1000051336.jpg,person 30,6644871
+916,Digha,25.6464543,85.0904737,In sabzi market of digha,Vehicle Pollution,2024-10-23 13:58:49.112058+00,17296918386341637134114436689984.jpg,person 8,6390527
+917,Digha,25.6423245,85.091097,Evening time ,Vehicle Pollution,2024-10-23 14:43:59.451949+00,,person 8,6669511
+918,Digha,25.651959,85.0965428,"The air pollution along the banks of the Ganges, particularly in areas affected by ""balu"" (river sand), ",Construction & Demolition Waste,2024-10-24 00:33:36.265416+00,17297298701227921114279697723650.jpg,person 8,6701158
+919,Patna,25.6170917,85.1131582,Boaring road,Vehicle Pollution,2024-10-24 03:30:20.010984+00,IMG_20241024_085916.jpg,person 6,6709260
+920,Patna,25.6093437,85.1376072,Dankbangla chauraha,Vehicle Pollution,2024-10-24 03:44:37.252059+00,IMG_20241024_091114.jpg,person 6,6709260
+921,Patna,25.6190153,85.1097316,Boring road ,Vehicle Pollution,2024-10-24 05:00:43.640887+00,1000175688.jpg,person 24,6715434
+922,Patna,25.6192561,85.1093862,An path,Vehicle Pollution,2024-10-24 05:01:23.092995+00,1000175687.jpg,person 24,6715434
+923,Patna,25.6173322,85.1070076,Construction of house ,Construction & Demolition Waste,2024-10-24 06:44:04.536971+00,1000245605.jpg,person 16,6721610
+924,Sector 8,28.457535,77.016415,Vehicle pollution ,Vehicle Pollution,2024-10-25 02:45:47.152302+00,1000079044.jpg,person 12,6786062
+925,Sector 8,28.457535,77.016415,Construction waste ,Construction & Demolition Waste,2024-10-25 02:47:38.863873+00,1000079050.jpg,person 12,6786173
+926,Patna,25.6103605,85.1351463,Dankbangla,Vehicle Pollution,2024-10-25 03:50:31.442288+00,IMG_20241025_091926.jpg,person 6,6789371
+927,Patna,25.6213454,85.110265,An path,Vehicle Pollution,2024-10-25 04:53:55.622109+00,1000175910.jpg,person 24,6792751
+928,Patna,25.6186182,85.1101844,An college boring road ,Vehicle Pollution,2024-10-25 08:38:01.84368+00,1000175927.jpg,person 24,6805231
+929,Patna,25.6186301,85.1101277,An college boring road ,Vehicle Pollution,2024-10-25 08:38:21.724956+00,1000175927_JReVLA1.jpg,person 24,6805288
+930,Sector 7,28.4705515,77.0183479,Saw this vehicle today and it was polluting as you can see ,Vehicle Pollution,2024-10-25 17:29:55.549379+00,1000186667.jpg,person 11,6817725
+931,Sector 12A,28.4638005,77.0332256,Brick waste,Construction & Demolition Waste,2024-10-26 03:06:25.81879+00,1000012908_2lW108l.jpg,person 14,6860733
+932,Shivaji Nagar,28.4649816,77.0368364,Construction waste ,Construction & Demolition Waste,2024-10-26 03:09:27.768568+00,1000079196.jpg,person 12,6860882
+933,Patna,25.618934,85.110853,An college boring road ,Vehicle Pollution,2024-10-26 06:21:10.161751+00,1000176061.jpg,person 24,6871027
+934,Patna,25.6183351,85.1118041,An college gate boring road ,Vehicle Pollution,2024-10-26 06:21:36.071165+00,1000176062.jpg,person 24,6871078
+935,Patna,25.6175426,85.1126444,An path boring road ,Vehicle Pollution,2024-10-26 06:21:58.17106+00,1000176059.jpg,person 24,6871078
+936,Patna,25.6152883,85.1154511,Checkpost boring road ,Vehicle Pollution,2024-10-26 06:23:21.266033+00,1000176063.jpg,person 24,6871185
+937,Patna,25.6106527,85.1209746,Highcourt road,Vehicle Pollution,2024-10-26 06:46:53.470452+00,1000176067.jpg,person 24,6872412
+938,Patna,25.6114281,85.1202296,High court road ,Vehicle Pollution,2024-10-26 06:47:17.099566+00,1000176068.jpg,person 24,6872469
+939,Patna,25.6189616,85.1082048,Shivpuri,Vehicle Pollution,2024-10-26 11:49:21.304167+00,IMG_20241026_171837.jpg,person 6,6889210
+940,Sector 7,28.4705594,77.0182974,In sector 4 because of road breakage and lot of houses being made and because of that getting to see a lot of dust in that area and also the reason of pm10 getting up,Construction & Demolition Waste,2024-10-26 18:18:33.067623+00,1000187347.jpg,person 11,6898947
+941,Digha,25.6602306,85.1010855,At home,Waste Burning,2024-10-27 00:44:50.022382+00,17299898545589201690501302894845.jpg,person 8,6859507
+942,Sector 7,28.4644224,77.0087652,Vehicle pollution ,Vehicle Pollution,2024-10-27 12:54:36.619033+00,1000079280.jpg,person 12,6861911
+943,Sector 7,28.4625494,77.0116446,Garbage burning ,Waste Burning,2024-10-28 09:04:06.270105+00,1000079398.jpg,person 12,6861911
+944,Patna,25.58542258,85.17832658,Very high pm concentration ,Vehicle Pollution,2024-10-28 12:55:37.240294+00,,person 27,6906764
+945,Digha,25.652424,85.0922339,Vehicle pollution ,Vehicle Pollution,2024-10-29 01:05:20.338217+00,,person 8,6942628
+946,Digha,25.6515917,85.0965442,"Train Emissions: Diesel locomotives emit nTrack Maintenance: Dust generated during maintenance activities, such as grinding and cleaning, can increase particulate matter levels.itrogen oxides (NOx), particulate matter (PM), and volatile organic compounds (VOCs). These pollutants contribute to smog and respiratory issues.",Vehicle Pollution,2024-10-29 01:16:25.797902+00,1730164397428103080506545217794.jpg,person 8,6943661
+947,Digha,25.6500939,85.0958954,J. P setu,Vehicle Pollution,2024-10-29 01:24:49.659168+00,,person 8,6944326
+948,Digha,25.6485781,85.0966359,Playground ,Vehicle Pollution,2024-10-29 01:32:47.963976+00,17301654084925252244907454617109.jpg,person 8,6944566
+949,Block C-1 & C-2,28.4830175,77.0136442,Block C-1 C-2 ,Vehicle Pollution,2024-10-29 13:50:33.516897+00,IMG20241029191936.jpg,person 25,6258638
+950,Digha,25.6602306,85.1010855,Bank of river,Construction & Demolition Waste,2024-10-30 00:58:45.884229+00,17302499066805680688668842921145.jpg,person 8,7016878
+951,Sector 12,28.4634662,77.0242596,Saw this waste near sector 12 and pm 10 was increased ,Construction & Demolition Waste,2024-10-30 06:13:34.827917+00,1000273556.jpg,person 11,7032403
+952,Sector 7,28.4627509,77.0107747,Dusty area,Construction & Demolition Waste,2024-10-30 08:17:31.472123+00,1000012048.jpg,person 14,6862663
+953,Rajendra Nagar,25.58838488,85.17310177,Too much smoke ,Vehicle Pollution,2024-10-30 09:24:21.899418+00,1000152758.jpg,person 4,7042276
+954,Sector 3A,28.4831594,77.0134442,Sector 3A ,Vehicle Pollution,2024-10-30 12:33:07.969121+00,IMG20241030180154.jpg,person 25,7052095
+955,Sector 7,28.4625494,77.0116446,Vehicle pollution ,Vehicle Pollution,2024-10-30 14:44:48.864853+00,1000079564.jpg,person 12,7056113
+956,Sector 7,28.4601787,77.0130843,Construction waste,Construction & Demolition Waste,2024-10-31 02:39:04.57118+00,1000079632.jpg,person 12,7095823
+957,Sector 8,28.4576232,77.0163235,Vehicle pollution ,Vehicle Pollution,2024-10-31 02:41:15.945228+00,1000079640.jpg,person 12,7095938
+958,Sector 3A,28.482948,77.0135575,Sector 3A ,Vehicle Pollution,2024-10-31 13:40:26.162963+00,IMG20241031190940.jpg,person 25,7128312
+959,Patna,25.5945886,85.1299156,Pollution from firecrackers,Construction & Demolition Waste,2024-10-31 14:16:39.959139+00,,person 3,7130404
+960,Patna,25.5945886,85.1299156,Pollution from firecrackers,Construction & Demolition Waste,2024-10-31 14:16:40.155827+00,1000160564.jpg,person 3,7130404
+961,Patna,25.5945757,85.129966,Pollution from firecrackers,Waste Burning,2024-10-31 14:17:27.607752+00,1000160567.jpg,person 3,7130459
+962,Sector 7,28.4631622,77.0105649,Crackers burning,Vehicle Pollution,2024-10-31 14:25:27.010352+00,1000079795.jpg,person 12,7130906
+963,Patna,25.58670533,85.17856821,Pollution level at peak during diwali fireworks,Vehicle Pollution,2024-10-31 15:43:37.978064+00,,person 27,7135416
+964,Patna,25.6232784,85.084296,"The burning of incense and other offerings releases volatile organic compounds (VOCs) and particulate matter, contributing to indoor air pollution.",Construction & Demolition Waste,2024-11-01 06:25:46.573491+00,IMG-20241101-WA0005.jpg,person 8,7167380
+965,Patna,25.6257271,85.0845404,Open storation of construction material. ,Brick Kilns,2024-11-01 09:54:05.769639+00,IMG0002A.jpg,person 8,7191011
+966,Digha,25.6403642,85.0875987,Open storation of construction material ,Brick Kilns,2024-11-01 10:04:12.005607+00,IMG0003A.jpg,person 8,7191533
+967,Block C-1 & C-2,28.4840771,77.0149385,Block C-1 C-2 ,Vehicle Pollution,2024-11-01 11:12:13.610805+00,IMG20241101161956.jpg,person 25,7128672
+968,Sector 12,28.46301339,77.02284663,This car was polluting alot.,Vehicle Pollution,2024-11-01 12:12:35.863247+00,,person 11,7194001
+969,Sector 12,28.46301339,77.02284663,This car was polluting alot.,Vehicle Pollution,2024-11-01 12:12:36.77856+00,1000274262.jpg,person 11,7194001
+970,Sector 7,28.4625494,77.0116446,Cracker burning,Waste Burning,2024-11-01 13:57:39.19425+00,1000079933.jpg,person 12,7203611
+971,Digha,25.650141,85.0885968,Using of crackers,Waste Burning,2024-11-01 14:07:53.907519+00,IMG0006A.jpg,person 8,7203902
+972,Digha,25.6501158,85.0886177,"Firecrackers contribute significantly to air pollution, particularly during festive seasons. When ignited, they release a mix of harmful pollutants, including particulate matter (PM), sulfur dioxide (SO₂), and nitrogen oxides (NOₓ). These substances can degrade air quality and pose health risks, leading to respiratory issues and exacerbating existing health conditions. The smoke from firecrackers can also contain heavy metals and other toxic compounds, contributing to environmental degradation. In densely populated areas, the collective impact can result in hazardous air quality levels, prompting health advisories and calls for regulation.",Waste Burning,2024-11-01 14:12:38.31727+00,IMG0008A.jpg,person 8,7204330
+973,Patna,25.6193087,85.1605457,Construction activity ,Construction & Demolition Waste,2024-11-02 07:35:37.099053+00,1000074790.jpg,person 19,7251748
+974,Patna,25.6193038,85.1605193,Busy road,Vehicle Pollution,2024-11-02 07:37:24.617313+00,1000074792_KZ0JUWz.jpg,person 19,7251838
+975,Sector 7,28.4691522,77.0214015,There was construction going on near the censor which was the reason for pm 10 and 2.5 getting up also humidity here was more because of narrow road,Construction & Demolition Waste,2024-11-02 10:52:23.017436+00,1000094307.jpg,person 11,7248016
+976,Patna,25.6047165,85.1007299,Vechile pollution ,Vehicle Pollution,2024-11-02 12:47:32.085262+00,1000241586.jpg,person 26,7267081
+977,Patna,25.6039096,85.105302,Vechile smoke ,Vehicle Pollution,2024-11-02 12:52:21.982933+00,1000241588.jpg,person 26,7267338
+978,Patna,25.6054397,85.1004262,Smoke ,Vehicle Pollution,2024-11-02 13:07:09.771063+00,1000241611.jpg,person 26,7268169
+979,Sector 3A,28.4831594,77.0134442,Sector 3A ,Vehicle Pollution,2024-11-02 13:16:45.173842+00,IMG20241102183944.jpg,person 25,7268691
+980,Sector 21,28.5123076,77.06841927,Fire in the garbage ,Industrial Pollution,2024-11-02 17:36:29.81299+00,1000225101.jpg,person 7,6655735
+981,Sector 7,28.4654632,77.0084053,Vehicle pollution ,Vehicle Pollution,2024-11-03 11:29:42.902035+00,1000080160.jpg,person 12,7330974
+982,Block C-1 & C-2,28.4839808,77.0145239,Block C-1 C-2 ,Vehicle Pollution,2024-11-03 14:27:46.266595+00,IMG20241030180135_pu3LleY.jpg,person 25,7268862
+983,Sector 4,28.4755738,77.0147983,Waste ,Construction & Demolition Waste,2024-11-04 03:00:23.070864+00,1000015134.jpg,person 14,7374349
+984,Sector 12A,28.4689258,77.0368364,Ve,Vehicle Pollution,2024-11-04 03:33:51.805221+00,1000080223.jpg,person 12,7376008
+985,Sector 13,28.4700849,77.0391664,Dusty area ,Construction & Demolition Waste,2024-11-04 03:35:13.131666+00,1000015140.jpg,person 14,7376114
+986,Sector 13,28.4700849,77.0391664,Leafy waste,Construction & Demolition Waste,2024-11-04 03:36:41.765456+00,1000015147.jpg,person 14,7376114
+987,Sector 16,28.4698972,77.0469116,Construction waste ,Construction & Demolition Waste,2024-11-04 03:38:43.392108+00,1000080226.jpg,person 12,7376219
+988,Gurugram,28.3510482,77.0605838,Waste burn ,Waste Burning,2024-11-04 04:56:39.044596+00,IMG_20241102_112509.jpg,person 1,7366673
+989,Block C-1 & C-2,28.483067,77.0139685,Block C-1 C-2 ,Vehicle Pollution,2024-11-04 12:54:03.694518+00,IMG20241104182120.jpg,person 25,7268862
+990,Digha,25.6423084,85.0910128,Digha main market ,Vehicle Pollution,2024-11-04 15:51:19.595006+00,,person 8,7411920
+991,Digha,25.65094,85.0881094,"Vehicle pollution, shop to home. ",Vehicle Pollution,2024-11-04 16:57:51.840815+00,,person 8,7416550
+992,Sector 8,28.4640663,77.0199225,Construction waste ,Construction & Demolition Waste,2024-11-05 02:37:41.879032+00,1000080447.jpg,person 12,7444611
+993,Sector 12A,28.4672717,77.027239,Construction waste,Construction & Demolition Waste,2024-11-05 03:52:45.936257+00,1000015292.jpg,person 14,7448414
+994,Sector 16,28.4653078,77.0386516,Waste lying along the roadsjde,Construction & Demolition Waste,2024-11-05 03:58:50.891231+00,1000015293.jpg,person 14,7448730
+995,IFFCO Chowk,28.4613351,77.0682416,Iifco chowk,Vehicle Pollution,2024-11-05 04:16:30.552363+00,IMG20241105092307.jpg,person 25,7449622
+996,Digha,25.6423564,85.0909487,Vehicle pollution ,Vehicle Pollution,2024-11-05 15:22:12.011075+00,20241105_204911.jpg,person 8,7484489
+997,Digha,25.642343,85.0908302,Vehicle pollution due to increase of transportation ,Vehicle Pollution,2024-11-05 15:31:35.436002+00,,person 8,7485146
+998,Sector 16,28.4685788,77.0443929,Construction waste dust pollution ,Construction & Demolition Waste,2024-11-06 03:19:34.170772+00,1000080521.jpg,person 12,7520051
+999,Sector 16,28.4707184,77.047991,Dusty area,Construction & Demolition Waste,2024-11-06 03:20:33.482891+00,1000015284.jpg,person 14,7520112
+1000,Sector 43,28.44852,77.079424,Waste along the roadside,Construction & Demolition Waste,2024-11-06 08:20:59.246971+00,1000015146.jpg,person 14,7535083
+1001,Sector 52A,28.4473551,77.0799074,Too many vehicles,Vehicle Pollution,2024-11-06 08:22:04.536769+00,1000080584.jpg,person 12,7521968
+1002,IFFCO Chowk,28.4715401,77.0722132,Vehicles pollution,Vehicle Pollution,2024-11-06 08:33:17.233182+00,1000010707.jpg,person 14,7535695
+1003,Block C-1 & C-2,28.4841114,77.0149045,Block C-1 C-2 ,Vehicle Pollution,2024-11-06 15:01:54.835978+00,IMG20241106200242.jpg,person 25,7450350
+1004,Gurugram,28.3562823,77.0702796,Construction ,Construction & Demolition Waste,2024-11-07 07:27:30.241795+00,1000071112.jpg,person 9,7603788
+1005,Sector 7,28.4630926,77.009845,Too many Vehicles,Vehicle Pollution,2024-11-08 02:52:59.785308+00,1000080753.jpg,person 12,7660242
+1006,Sector 7,28.4630926,77.009845,Construction waste ,Construction & Demolition Waste,2024-11-08 02:53:51.56203+00,1000080751.jpg,person 12,7660242
+1007,Sector 7,28.4627551,77.0107646,Vehicle emmiting pollution,Vehicle Pollution,2024-11-08 05:15:41.104131+00,1000015433.jpg,person 14,7666945
+1008,Sector 7,28.4686024,77.0141062,There was alot of dust because of the guy,Construction & Demolition Waste,2024-11-08 11:37:08.62567+00,1000275536.jpg,person 11,7685904
+1009,Block C-1 & C-2,28.4835164,77.0143444,Block C-1 C-2 ,Vehicle Pollution,2024-11-08 13:58:48.030499+00,IMG20241108192812.jpg,person 25,7450350
+1010,Sector 16,28.4686557,77.0440522,Semi burnt waste,Construction & Demolition Waste,2024-11-09 03:42:45.885003+00,1000015429.jpg,person 14,7731373
+1011,Sector 17,28.4726727,77.0533881,Construction waste ,Construction & Demolition Waste,2024-11-09 03:45:08.731391+00,1000080755.jpg,person 12,7731477
+1012,Sector 3A,28.4826298,77.0136515,Sector 3A ,Vehicle Pollution,2024-11-09 12:47:57.085597+00,IMG20241109181708.jpg,person 25,7758216
+1013,Sector 7,28.4625494,77.0116446,Vehicle pollution ,Vehicle Pollution,2024-11-10 02:20:03.057094+00,1000080928.jpg,person 12,7796953
+1014,Block C-1 & C-2,28.4836223,77.0145239,Block C-1 C-2 ,Vehicle Pollution,2024-11-10 14:33:14.50003+00,IMG20241110200227.jpg,person 25,7758216
+1015,Sector 7,28.4624318,77.010598,Construction waste ,Construction & Demolition Waste,2024-11-11 02:44:44.106704+00,1000081177.jpg,person 12,7870252
+1016,IFFCO Chowk,28.4761707,77.0712344, near Iffco metro ,Brick Kilns,2024-11-11 03:47:56.449871+00,IMG_20241111_091541.jpg,person 20,7873486
+1017,Sector 44,28.4464891,77.0756933,Industrial pollution ,Industrial Pollution,2024-11-11 04:05:57.434049+00,IMG_20241111_093300.jpg,person 20,7874395
+1018,Patna,25.6035132,85.0889009,Thermocol sheets were burnt in heavy amount,Waste Burning,2024-11-11 07:07:42.151228+00,IMG_20241110_165503.jpg,person 13,7883951
+1019,Patna,25.6390237,85.1091842,Near kurji holi family hospital ,Vehicle Pollution,2024-11-11 08:06:42.358401+00,17313123274888724856372473246311.jpg,person 8,7887186
+1020,Patna,25.6199817,85.1435419,Gandhi maidan ,Vehicle Pollution,2024-11-11 08:18:52.743709+00,17313130945274515974352444449347.jpg,person 8,7887911
+1021,Patna,25.6156589,85.1536589,Khetan market,Vehicle Pollution,2024-11-11 10:21:22.831031+00,,person 8,7888250
+1022,Sector 7,28.4620471,77.0167324,The one of these auto were polluting alot .,Vehicle Pollution,2024-11-11 11:49:46.054549+00,1000275983.jpg,person 11,7899219
+1023,Sector 7,28.4624738,77.0112621,Vehicle pollution,Vehicle Pollution,2024-11-12 04:03:51.170376+00,1000015434.jpg,person 14,7893831
+1024,Sector 53,28.4517077,77.0877443,Vehicle pollution,Vehicle Pollution,2024-11-12 06:22:47.385785+00,1000016140.jpg,person 14,7956767
+1025,Block C-1 & C-2,28.4841482,77.0149059,Block C-1 C-2 ,Vehicle Pollution,2024-11-12 15:20:52.072527+00,IMG20241112185725.jpg,person 25,7985122
+1026,Sector 7,28.4706217,77.0182047,People in our area were burning fire crackers and during this process the pm 10 and pm 2.5 was getting high,Waste Burning,2024-11-12 16:07:23.570246+00,1000194239.jpg,person 11,7989701
+1027,Sector 7,28.4705821,77.0183515,In the early morning I get to see the mix of pollution and the fog and also I feel that this is because of waste burning so I am categoriesing in waste burning ,Waste Burning,2024-11-13 02:50:17.109057+00,1000194285.jpg,person 11,7989754
+1028,Patna,25.6275553,85.100771,Pm 10 and pm 2.5 highly increase,Waste Burning,2024-11-13 11:46:35.047043+00,IMG_20241113_171448.jpg,person 6,8051084
+1029,Sector 7,28.4626335,77.0106067,Vehicle pollution ,Vehicle Pollution,2024-11-14 05:20:46.850139+00,1000081241.jpg,person 12,8097136
+1030,Priyadarshi Nagar,25.60560175,85.0605914,Dust particles of construction site become trouble for passing vehicle create lack of visibility ,Construction & Demolition Waste,2024-11-14 06:00:27.446891+00,IMG_3818.jpeg,person 21,8106781
+1031,Patna,25.6163706,85.06552641,This place regularly use to create air pollution by waste dumping and burning ,Waste Burning,2024-11-14 06:05:10.612681+00,IMG_3820.jpeg,person 21,8107037
+1032,Priyadarshi Nagar,25.61112864,85.05667342,Slum reside under construction site create air pollution by open defecation,Construction & Demolition Waste,2024-11-14 06:16:13.295776+00,IMG_3830.jpeg,person 21,8107601
+1033,Priyadarshi Nagar,25.60613934,85.05354033,Almost Every single street of patna which has a open plot become a site of dumping waste and waste burning,Waste Burning,2024-11-14 06:23:23.12956+00,IMG_3839.jpeg,person 21,8107961
+1034,Patna,25.6124897,85.1190635,Boring road choraha ,Vehicle Pollution,2024-11-14 10:19:10.497578+00,1000182959.jpg,person 24,8120632
+1035,Patna,25.604228,85.1354669,Patna junction ,Vehicle Pollution,2024-11-14 11:19:34.507135+00,1000182990.jpg,person 24,8123882
+1036,Rajendra Nagar,25.5965796,85.1736956,Pollution at evening due to  high  traffic ,Vehicle Pollution,2024-11-14 14:04:07.743976+00,,person 5,8133085
+1037,Patna,25.6056655,85.0805565,Ashiyana ,Vehicle Pollution,2024-11-15 10:22:17.540884+00,1000183180.jpg,person 24,8197753
+1038,Patna,25.6275482,85.1007628,Dust particles in air,Construction & Demolition Waste,2024-11-15 11:42:11.330198+00,IMG_20241115_171046.jpg,person 6,8202184
+1039,Patna,25.6276055,85.1008471,Pm 10 and pm 2.5 also increase,Waste Burning,2024-11-15 11:47:00.340853+00,IMG_20241115_171446.jpg,person 6,8202477
+1040,Patna,25.6301891,85.1003389,Rajeev nagar pm increases,Vehicle Pollution,2024-11-15 11:53:15.881414+00,IMG_20241115_172154.jpg,person 6,8202900
+1041,Patna,25.6098688,85.1363127,Dakbanglo road,Vehicle Pollution,2024-11-15 12:52:15.61073+00,1000183216.jpg,person 24,8206337
+1042,Block C-1 & C-2,28.4834552,77.0143116,Block C-1 C-2 ,Vehicle Pollution,2024-11-15 13:23:54.05111+00,IMG20241115184828.jpg,person 25,8021016
+1043,Sector 7,28.4628036,77.0105649,Vehicle pollution ,Vehicle Pollution,2024-11-16 06:30:56.436128+00,1000081245.jpg,person 12,8249166
+1044,Patna,25.6191892,85.1609888,Air quality here amid ongoing construction and demolition work on Ashok Rajpath,Construction & Demolition Waste,2024-11-16 08:29:17.163378+00,1000382108.jpg,person 10,8267406
+1045,Patna,25.6275607,85.1007671,Dust particles,Construction & Demolition Waste,2024-11-16 11:39:36.70715+00,IMG_20241116_170830.jpg,person 6,8277830
+1046,Patna,25.6277148,85.1005772,Solid waste burning,Waste Burning,2024-11-16 11:43:31.927331+00,IMG_20241116_171108.jpg,person 6,8278110
+1047,Patna,25.62993,85.1004341,Pm highly increase,Vehicle Pollution,2024-11-16 11:58:54.238695+00,IMG_20241116_172806.jpg,person 6,8278999
+1048,Sector 39,28.441973,77.0517344,Industrial pollution ,Industrial Pollution,2024-11-16 12:40:29.937329+00,1000053420.jpg,person 30,8281249
+1049,Sector 7,28.4615894,77.014611,Waste burning ,Waste Burning,2024-11-16 15:53:11.959792+00,1000081897.jpg,person 12,8291653
+1050,Rajendra Nagar,25.5957116,85.1734655,Pm level increase  ,Vehicle Pollution,2024-11-16 16:33:30.114466+00,,person 5,8293818
+1051,Rajendra Nagar,25.5955284,85.1733264,Pm level beyond the limit ,Vehicle Pollution,2024-11-16 16:42:04.562973+00,,person 5,8294288
+1052,Block C-1 & C-2,28.4824772,77.0138041,Block C-1 C-2 ,Vehicle Pollution,2024-11-17 07:51:26.056766+00,IMG20241117131936.jpg,person 25,8340888
+1053,Patna,25.6089363,85.103435,Rajbansi nagar,Vehicle Pollution,2024-11-17 11:41:33.258789+00,IMG_20241117_170925.jpg,person 6,8354060
+1054,Patna,25.614816,85.1198872,Boring road choraha ,Vehicle Pollution,2024-11-17 12:19:36.810337+00,1000183559.jpg,person 24,8333906
+1055,Patna,25.6052056,85.0790535,Kolkata Mart. Indoor pollution CO2 ,Industrial Pollution,2024-11-17 14:32:30.252918+00,1000253212.jpg,person 26,8363109
+1056,Sector 43,28.4482909,77.0788629,Vehicle pollution ,Vehicle Pollution,2024-11-18 03:48:44.453381+00,1000082032.jpg,person 12,8406005
+1057,Patna,25.6102365,85.1039885,Both pm highly increase,Vehicle Pollution,2024-11-18 12:12:33.202075+00,IMG_20241118_174106.jpg,person 6,8433486
+1058,Patna,25.6103867,85.103954,Pm 10 and 2.5 highly increse,Vehicle Pollution,2024-11-18 12:14:16.693385+00,IMG_20241118_174310.jpg,person 6,8433598
+1059,Sector 41,28.4617624,77.0666998,Sector 41,Vehicle Pollution,2024-11-19 03:47:28.707788+00,IMG20241119091641.jpg,person 25,8480480
+1060,Sector 5,28.4788263,77.035397,Sector 5,Vehicle Pollution,2024-11-19 05:40:42.001557+00,IMG20241119110933.jpg,person 25,8480744
+1061,Sector 7,28.4701318,77.021389,Waste burning,Waste Burning,2024-11-19 05:57:42.587009+00,1000016999.jpg,person 14,8487744
+1062,Sector 7,28.4687274,77.0199225,Waste burning,Waste Burning,2024-11-19 06:00:18.466055+00,1000082074.jpg,person 12,8487919
+1063,Patna,25.6183746,85.1032396,Solid waste Burning🔥,Waste Burning,2024-11-19 11:52:22.824678+00,IMG_20241119_171411.jpg,person 6,8507533
+1064,Patna,25.6109843,85.10404,Dav school both pm are highly increase,Vehicle Pollution,2024-11-19 12:04:32.858229+00,IMG_20241119_172931.jpg,person 6,8508315
+1065,Sector 25,28.4788679,77.0767725,Vehicle pollution ,Vehicle Pollution,2024-11-20 03:22:07.381308+00,1000082032_LfPsz21.jpg,person 12,8558393
+1066,Patna,25.6183146,85.1116542,Boring road ,Vehicle Pollution,2024-11-20 09:22:16.078345+00,1000184380.jpg,person 24,8577272
+1067,Patna,25.6183326,85.1116913,Boring road ,Vehicle Pollution,2024-11-20 09:22:34.907767+00,1000184378.jpg,person 24,8577272
+1068,Patna,25.6189373,85.1109716,An college gate boring road ,Vehicle Pollution,2024-11-20 09:24:03.6693+00,1000184383.jpg,person 24,8577272
+1069,Patna,25.6217213,85.1102736,An path boring road ,Vehicle Pollution,2024-11-20 09:31:46.881929+00,1000184384.jpg,person 24,8577272
+1070,Patna,25.6302031,85.1003514,Rajeev nagar,Vehicle Pollution,2024-11-20 11:34:49.430186+00,IMG_20241120_170153.jpg,person 6,8585245
+1071,Patna,25.6129188,85.1047791,Board colony,Vehicle Pollution,2024-11-20 12:00:00.225344+00,IMG_20241120_172812.jpg,person 6,8586693
+1072,Patna,25.6169089,85.1024455,Patel nagar both pm increses,Waste Burning,2024-11-21 11:35:31.321942+00,IMG_20241121_170352.jpg,person 6,8664622
+1073,Patna,25.6179295,85.0966753,Rajbansi nagar,Vehicle Pollution,2024-11-21 11:43:11.125092+00,IMG_20241121_171202.jpg,person 6,8665082
+1074,Patna,25.6191461,85.1102002,An path,Vehicle Pollution,2024-11-22 05:17:20.767154+00,1000184607.jpg,person 24,8719481
+1075,Patna,25.6196143,85.1098943,Boring road ,Vehicle Pollution,2024-11-22 10:03:54.397172+00,1000184634.jpg,person 24,8732406
+1076,Patna,25.6196349,85.1100202,An college gate boring road ,Vehicle Pollution,2024-11-22 10:04:14.018235+00,1000184633.jpg,person 24,8732406
+1077,Digha,25.6341797,85.1009911,Both pm highly increase,Construction & Demolition Waste,2024-11-22 11:25:34.069754+00,IMG_20241122_165357.jpg,person 6,8741310
+1078,Digha,25.6342595,85.1009449,Dust particles,Construction & Demolition Waste,2024-11-22 11:31:26.26462+00,IMG_20241122_170038.jpg,person 6,8741670
+1079,Patna,25.6302358,85.1005066,Rajeev nagar,Vehicle Pollution,2024-11-22 11:39:49.198038+00,IMG_20241122_170506.jpg,person 6,8742159
+1080,Block C-1 & C-2,28.4828357,77.0138041,Block C-1 C-2 ,Vehicle Pollution,2024-11-22 13:34:59.346727+00,IMG20241122190149.jpg,person 25,8486881
+1081,Sector 7,28.4625675,77.0105133,Vehicle pollution ,Vehicle Pollution,2024-11-23 02:54:50.206892+00,1000081245_ezZVmgr.jpg,person 12,8790710
+1082,Patna,25.6194736,85.1090649,An college gate boring road ,Vehicle Pollution,2024-11-23 04:58:35.193904+00,1000184682.jpg,person 24,8732406
+1083,Patna,25.6199338,85.1099709,An college patna ,Vehicle Pollution,2024-11-23 09:41:37.763691+00,1000184744.jpg,person 24,8732406
+1084,Patna,25.6246208,85.0947658,Rajiv nagar ,Waste Burning,2024-11-23 11:17:58.225388+00,1000184751.jpg,person 24,8817187
+1085,Patna,25.5875744,85.1788525,Waste burning ,Waste Burning,2024-11-24 13:46:52.89099+00,1000003553.jpg,person 27,8901638
+1086,Patna,25.6129422,85.1187545,Boring road choraha ,Vehicle Pollution,2024-11-25 09:45:24.300447+00,1000185097.jpg,person 24,8949886
+1087,Patna,25.6100314,85.1225698,High court road ,Vehicle Pollution,2024-11-25 11:00:45.271981+00,1000185099.jpg,person 24,8949886
+1088,Patna,25.6263861,85.1030151,Pm 10 increase,Vehicle Pollution,2024-11-27 11:41:59.492892+00,IMG_20241127_170803.jpg,person 6,9119851
+1089,Block C-1 & C-2,28.4841423,77.0148684,Block C-1 C-2 ,Vehicle Pollution,2024-11-27 13:14:34.012908+00,IMG20241127183730.jpg,person 25,8749106
+1090,Patna,25.6191242,85.1102915,An path boring road ,Vehicle Pollution,2024-11-28 05:15:33.277876+00,1000185945.jpg,person 24,9176361
+1091,Patna,25.6190585,85.1097199,An college boring road ,Vehicle Pollution,2024-11-28 05:16:02.558327+00,1000185946.jpg,person 24,9176361
+1092,Patna,25.6119904,85.0997503,Tiny dust in air,Vehicle Pollution,2024-11-28 11:47:02.928066+00,IMG_20241128_171439.jpg,person 6,9199609
+1093,Patna,25.6107894,85.0998457,Dust particles,Construction & Demolition Waste,2024-11-28 11:48:47.733065+00,IMG_20241128_171709.jpg,person 6,9199671
+1094,Patna,25.6103023,85.101368,Solid waste Burning🔥,Waste Burning,2024-11-28 11:52:24.293394+00,IMG_20241128_172137.jpg,person 6,9199904
+1095,Patna,25.5869821,85.17860022,Foothpath and road construction ,Construction & Demolition Waste,2024-11-30 08:02:27.603275+00,1000003794.jpg,person 27,9331682
+1096,Block C-1 & C-2,28.4836877,77.0145259,Block C-1 C-2 ,Vehicle Pollution,2024-12-01 15:12:42.676006+00,IMG20241201204053.jpg,person 25,8749106
+1097,Patna,25.5870063,85.17854669,Private house construction is going on,Construction & Demolition Waste,2024-12-03 08:53:49.060017+00,1000003969.jpg,person 27,9564936
+1098,Sector 3A,28.4828197,77.0135595,Sector 3A ,Vehicle Pollution,2024-12-05 12:24:14.178127+00,IMG20241205175225.jpg,person 25,9733694
+1099,Sector 7,28.462762,77.0107638,Waste burning,Waste Burning,2024-12-07 12:22:40.175854+00,1000019388.jpg,person 14,9891308
+1100,Rajendra Nagar,25.5961511,85.173249,Smoking zone,Waste Burning,2024-12-10 11:35:51.958424+00,1000165402.jpg,person 4,10120208
+1101,Patna,25.5792737,85.1749913,Bariya ,Waste Burning,2024-12-11 10:07:06.83756+00,1000189436.jpg,person 24,9191324
+1102,Sampatchak,25.5682895,85.1768725,Dumping yard,Waste Burning,2024-12-11 10:10:18.556053+00,IMG_20241211_153633.jpg,person 6,10198077
+1103,Sampatchak,25.5682791,85.1768473,Dumping yard,Waste Burning,2024-12-11 10:12:57.820951+00,IMG_20241211_153633_bdl5wny.jpg,person 6,10198186
+1104,Rajendra Nagar,25.60115757,85.17410751,Burning of mixed waste and thermocol at garbage vulnerable point near mithapur bus stand ,Waste Burning,2024-12-12 11:13:02.559262+00,IMG_20241211_155740.jpg,person 13,10279945
+1105,Digha,25.6323752,85.1023069,Air quality here amid ongoing construction and demolition work on Patliputra Industrial Area ,Construction & Demolition Waste,2024-12-13 08:36:49.988447+00,1000398279.jpg,person 10,10349360
+1106,Rajendra Nagar,25.5961614,85.1732423,Smoking zone,Waste Burning,2024-12-15 17:48:44.780209+00,1000166586.jpg,person 4,10531383
+1107,Patna,25.58645968,85.17802675,Burning solid waste plastics etc,Waste Burning,2024-12-17 04:27:20.60239+00,1000005059.jpg,person 27,10640124
+1108,Patna,25.58672705,85.17861304,Pollution due to burning of waste material ,Waste Burning,2024-12-17 04:28:26.652791+00,1000004784.jpg,person 27,10640232
+1109,Gurugram,28.3562432,77.0702229,Construction waste ,Construction & Demolition Waste,2024-12-18 06:25:20.172177+00,1000080141.jpg,person 9,10725640
+1110,Block C-1 & C-2,28.4830774,77.0139118,Block C1 C2,Vehicle Pollution,2024-12-18 09:40:11.425453+00,1000008617.jpg,person 25,9733756
+1111,Sector 7,28.4626039,77.0105327,Waste burning ,Waste Burning,2024-12-19 04:18:00.700162+00,1000084582.jpg,person 12,10800647
+1112,Patna,25.6013762,85.1256234,Construction work at Daroga Prasad Rai Path by Bihar State Tourism Development Corporation ,Construction & Demolition Waste,2024-12-19 10:32:39.660475+00,1000105879.jpg,person 17,10822553
+1113,Block C-1 & C-2,28.4835393,77.0143692,Block C1 C2 ,Vehicle Pollution,2024-12-19 13:06:17.523977+00,1000008849.jpg,person 25,9733756
+1114,Priyadarshi Nagar,25.605442,85.05369967,Dumping and burning of domestic waste which contain polybag etc ,Waste Burning,2024-12-20 05:34:07.99731+00,IMG_4749.jpeg,person 21,10882072
+1115,Patna,25.6037955,85.0887249,Waste burning nd smoke ,Waste Burning,2024-12-20 10:32:01.325056+00,1000158049.jpg,person 18,10897833
+1116,Patna,25.58671606,85.17857885,Burning of waste material ,Waste Burning,2024-12-21 09:58:28.467356+00,1000005637.jpg,person 27,10972608
+1117,Patna,25.60397524,85.08909954,This is c &d waste observed in bailey road near pillar no 71.The waste contain high amount of dust which leads to increase in the value of PM 10 and PM 2.5 and this results in adverse health effects and adverse environmental issues ,Construction & Demolition Waste,2024-12-21 09:59:32.34756+00,,person 13,10971928
+1118,Patna,25.58630971,85.17852526,Construction of road ,Construction & Demolition Waste,2024-12-21 11:01:30.369951+00,1000005396.jpg,person 27,10976431
+1119,Block C-1 & C-2,28.4830353,77.0139395,Block C1 C2 ,Vehicle Pollution,2024-12-21 12:34:35.804056+00,1000008952.jpg,person 25,10981977
+1120,Sector 7,28.4625494,77.0116446,People have lit fire because of cold ,Waste Burning,2024-12-22 15:17:42.063373+00,1000086144.jpg,person 12,11073525
+1121,Rajendra Nagar,25.5964266,85.173225,Too much smoke ,Industrial Pollution,2024-12-25 11:07:45.469132+00,1000169203.jpg,person 4,11285306
+1122,Sector 7,28.4616584,77.009845,Vehicle Pollution ,Vehicle Pollution,2024-12-25 13:31:51.902216+00,1000086500.jpg,person 12,11293377
+1123,Block C-1 & C-2,28.4833364,77.0142282,Block C1 C2 ,Vehicle Pollution,2024-12-25 13:35:52.891215+00,1000009216.jpg,person 25,10982284
+1124,Sector 7,28.462761,77.0107531,Waste burning,Waste Burning,2024-12-25 14:31:54.655324+00,1000023051.jpg,person 14,11296459
+1125,Sector 7,28.4627574,77.0107591,Agarbati burned,Waste Burning,2024-12-26 13:30:23.532095+00,1000023166.jpg,person 14,11371978
+1126,Sector 3A,28.4828406,77.013553,Sector 3,Vehicle Pollution,2024-12-28 12:22:45.441902+00,1000009530.jpg,person 25,10982284
+1127,Sector 7,28.4628036,77.0105649,People lit fire due to cold ,Waste Burning,2024-12-29 10:32:05.725272+00,1000087009.jpg,person 12,11589265
+1128,Sector 7,28.4625494,77.0116446,People lit fire due to cold ,Waste Burning,2024-12-30 08:46:44.371036+00,1000087077.jpg,person 12,11596874
+1129,Block C-1 & C-2,28.4833875,77.0142477,Block C1 C2 ,Vehicle Pollution,2024-12-30 12:21:06.208581+00,1000009688.jpg,person 25,10982284
+1130,Sector 7,28.4625667,77.0105385,People lit fire due to cold ,Waste Burning,2024-12-31 13:29:00.960949+00,1000087322.jpg,person 12,11739478
