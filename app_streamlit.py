@@ -6,6 +6,11 @@ import folium
 from streamlit_folium import folium_static
 import glob
 import datetime
+import requests
+
+API_URL = "https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions"
+headers = {"Authorization": f"Bearer {API_KEY}"}
+
 
 # Function to load and merge pollutant data
 def load_data():
@@ -171,13 +176,46 @@ for _, row in data_filtered.iterrows():
         ).add_to(map_obj)
 folium_static(map_obj, width=0, height=600)
 
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json(), response.status_code
+
+response, statusCode = query({
+    "messages": [
+        {
+            "role": "user",
+            "content": f"""
+                        Given the air quality index (AQI) of {data_filtered['AQI'].mean()} and the weather conditions described as "{data_filtered['temp'].mean():.1f}" which is in celcius,, generate a short two-sentence advisory:
+                        1. Describe the air quality situation concisely.
+                        2. Provide a simple recommendation on outdoor activity.
+
+                        Keep it clear and direct, without unnecessary details.
+                        """
+        }
+    ],
+    "max_tokens": 50,
+    "model": "mistralai/Mistral-7B-Instruct-v0.3"
+})
+
 # # Summary Cards
 st.markdown("### Air Quality Insights")
 col4, col5 = st.columns(2)
 with col4:
-    st.info("Air quality is worsening today. Limit outdoor activities.")
+    if statusCode == 200:
+        st.info(response["choices"][0]["message"]['content'].split('\n')[0][3:])
+    else:
+        if data_filtered['AQI'].mean() < 50:
+            st.success("Good time for a morning walk. Moderate pollution levels.")
+        else:
+            st.info("The air quality is unhealthy for sensitive groups.")
 with col5:
-    st.success("Good time for a morning walk. Moderate pollution levels.")
+    if statusCode == 200:
+        st.info(response["choices"][0]["message"]['content'].split('\n')[1][3:])
+    else:
+        if data_filtered['AQI'].mean() < 50:
+            st.success("Good time for a morning walk. Moderate pollution levels.")
+        else:
+            st.info("Avoid outdoor activities. Unhealthy air quality.")
 
 # Display Pollution Category Images
 st.markdown("### Pollution Categories")
