@@ -250,4 +250,4 @@ with col5:
 
 st.write("\n \n")
 st.write("### Future Enhancements")
-st.write("- Integrate real-time API data \n -Improved pollution category classification")
+st.write("- Integrate real-time API data\n- Improved pollution category classification")
