@@ -117,9 +117,9 @@ st.title("Air Quality Prediction Dashboard")
 # Sidebar: Location, Pollutant, Pollution Category
 location = st.sidebar.selectbox("Select Location", sorted(data['location'].unique()))
 pollutant = st.sidebar.selectbox("Select Pollutant", ['co', 'pm_25', 'pm_10', 'no2'])
-category_selection = st.sidebar.multiselect(
-    "Select Pollution Category", ['All'] + category_data['category'].tolist(), default=['All']
-)
+# category_selection = st.sidebar.multiselect(
+#     "Select Pollution Category", ['All'] + category_data['category'].tolist(), default=['All']
+# )
 
 # Filter Data based on location only (date filter removed)
 data_filtered = data[data['location'] == location].sort_values(by='date')
@@ -232,22 +232,22 @@ with col5:
             st.info("Avoid outdoor activities. Unhealthy air quality.")
 
 # Display Pollution Category Images
-st.markdown("### Pollution Categories")
-if 'All' in category_selection:
-    filtered_category_data = data_filtered.dropna(subset=['category'])
-else:
-    filtered_category_data = data_filtered[data_filtered['category'].isin(category_selection)]
+# st.markdown("### Pollution Categories")
+# if 'All' in category_selection:
+#     filtered_category_data = data_filtered.dropna(subset=['category'])
+# else:
+#     filtered_category_data = data_filtered[data_filtered['category'].isin(category_selection)]
 
-# Get unique categories from the filtered data
-unique_categories = filtered_category_data['category'].dropna().unique()
+# # Get unique categories from the filtered data
+# unique_categories = filtered_category_data['category'].dropna().unique()
 
-# Display one image per category (if available in the 'image_filename' column)
-for cat in unique_categories:
-    cat_data = filtered_category_data[filtered_category_data['category'] == cat]
-    if 'image_filename' in cat_data.columns and not cat_data['image_filename'].isnull().all():
-        image_path = cat_data['image_filename'].iloc[0]  # Use the first image for the category
-        st.image(image_path, caption=cat, use_column_width=True)
+# # Display one image per category (if available in the 'image_filename' column)
+# for cat in unique_categories:
+#     cat_data = filtered_category_data[filtered_category_data['category'] == cat]
+#     if 'image_filename' in cat_data.columns and not cat_data['image_filename'].isnull().all():
+#         image_path = cat_data['image_filename'].iloc[0]  # Use the first image for the category
+#         st.image(image_path, caption=cat, use_column_width=True)
 
 st.write("\n \n")
 st.write("### Future Enhancements")
-st.write("- Integrate real-time API data \n-Improved pollution category classification")
+st.write("- Integrate real-time API data \n -Improved pollution category classification")
