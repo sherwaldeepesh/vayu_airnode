@@ -9,6 +9,7 @@ import datetime
 import requests
 
 API_URL = "https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions"
+API_KEY = st.secrets["huggingface"]["api_key"]
 headers = {"Authorization": f"Bearer {API_KEY}"}
 
 
