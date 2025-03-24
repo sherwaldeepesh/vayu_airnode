@@ -248,5 +248,6 @@ for cat in unique_categories:
         image_path = cat_data['image_filename'].iloc[0]  # Use the first image for the category
         st.image(image_path, caption=cat, use_column_width=True)
 
+st.write("\n \n")
 st.write("### Future Enhancements")
-st.write("- Integrate real-time API data\n- Add ML-based predictions\n- Display public health alerts")
+st.write("- Integrate real-time API data \n-Improved pollution category classification")
