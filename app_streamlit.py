@@ -7,6 +7,7 @@ from streamlit_folium import folium_static
 import glob
 import datetime
 import requests
+import re
 
 API_URL = "https://router.huggingface.co/hf-inference/models/mistralai/Mistral-7B-Instruct-v0.3/v1/chat/completions"
 API_KEY = st.secrets["huggingface"]["api_key"]
@@ -199,19 +200,31 @@ response, statusCode = query({
 })
 
 # # Summary Cards
+if statusCode == 200:
+    response_text = response["choices"][0]["message"]['content']
+    
+    # Split the response into lines
+    lines = response_text.split('\n')
+    
+    # Remove numbering (e.g., "1.", "2.") from the start of each line
+    cleaned_lines = [
+        re.sub(r'^\s*\d+\.\s*', '', line) if re.match(r'^\s*\d+\.\s*', line) else line
+        for line in lines
+    ]
+    
 st.markdown("### Air Quality Insights")
 col4, col5 = st.columns(2)
 with col4:
-    if statusCode == 200:
-        st.info(response["choices"][0]["message"]['content'].split('\n')[0][3:])
+    if statusCode == 200 and len(cleaned_lines) > 0:
+        st.info(cleaned_lines[0])
     else:
         if data_filtered['AQI'].mean() < 50:
             st.success("Good time for a morning walk. Moderate pollution levels.")
         else:
             st.info("The air quality is unhealthy for sensitive groups.")
 with col5:
-    if statusCode == 200:
-        st.info(response["choices"][0]["message"]['content'].split('\n')[1][3:])
+    if statusCode == 200 and len(cleaned_lines) > 1:
+        st.info(cleaned_lines[1])
     else:
         if data_filtered['AQI'].mean() < 50:
             st.success("Good time for a morning walk. Moderate pollution levels.")
